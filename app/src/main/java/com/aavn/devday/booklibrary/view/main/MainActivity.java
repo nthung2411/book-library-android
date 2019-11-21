@@ -7,6 +7,7 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.KeyEvent;
 import android.view.Menu;
@@ -22,11 +23,12 @@ import com.aavn.devday.booklibrary.R;
 import com.aavn.devday.booklibrary.data.manager.UserManager;
 import com.aavn.devday.booklibrary.data.model.Book;
 import com.aavn.devday.booklibrary.data.model.ResponseData;
+import com.aavn.devday.booklibrary.view.detail.BookDetailActivity;
 import com.aavn.devday.booklibrary.viewmodel.BookListViewModel;
 
 import java.util.List;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity implements BookListAdapter.OnItemClickListener {
 
     private BookListViewModel bookListViewModel;
     private BookListAdapter bookListAdapter;
@@ -44,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
         bookListViewModel = ViewModelProviders.of(this).get(BookListViewModel.class);
         observeBookListData();
 
-        bookListAdapter = new BookListAdapter();
+        bookListAdapter = new BookListAdapter(this);
         LinearLayoutManager layoutManager = new LinearLayoutManager(this);
         rvBookList.setLayoutManager(layoutManager);
         rvBookList.setAdapter(bookListAdapter);
@@ -127,5 +129,12 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
+    }
+
+    @Override
+    public void onItemClick(Book item) {
+
+        Intent intent = new Intent(this, BookDetailActivity.class);
+        startActivity(intent);
     }
 }

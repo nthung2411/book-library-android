@@ -5,6 +5,7 @@ import android.text.Html;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -22,6 +23,11 @@ import java.util.List;
 public class BookListAdapter extends RecyclerView.Adapter<BookListAdapter.BookViewHolder> {
 
     private List<Book> items = new ArrayList<>();
+    private BookListAdapter.OnItemClickListener clickListener;
+
+    public BookListAdapter(OnItemClickListener clickListener) {
+        this.clickListener = clickListener;
+    }
 
     @NonNull
     @Override
@@ -33,7 +39,7 @@ public class BookListAdapter extends RecyclerView.Adapter<BookListAdapter.BookVi
     @Override
     public void onBindViewHolder(@NonNull BookViewHolder holder, int position) {
         Book data = items.get(position);
-        holder.bindData(data);
+        holder.bindData(data, clickListener);
     }
 
     @Override
@@ -52,6 +58,10 @@ public class BookListAdapter extends RecyclerView.Adapter<BookListAdapter.BookVi
         notifyDataSetChanged();
     }
 
+    public interface OnItemClickListener {
+        void onItemClick(Book item);
+    }
+
     static class BookViewHolder extends RecyclerView.ViewHolder {
 
         TextView titleTv;
@@ -67,7 +77,7 @@ public class BookListAdapter extends RecyclerView.Adapter<BookListAdapter.BookVi
             coverIv = itemView.findViewById(R.id.iv_book_cover);
         }
 
-        void bindData(Book data) {
+        void bindData(Book data, BookListAdapter.OnItemClickListener listener) {
             titleTv.setText(data.getTitle());
 
             authorTv.setText(data.getAuthor());
@@ -84,6 +94,12 @@ public class BookListAdapter extends RecyclerView.Adapter<BookListAdapter.BookVi
             } else {
                 authorTv.setText(data.getAuthor());
             }
+            itemView.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    listener.onItemClick(data);
+                }
+            });
         }
 
         private void bindDescription(String rawData){
