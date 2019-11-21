@@ -14,6 +14,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.aavn.devday.booklibrary.R;
 import com.aavn.devday.booklibrary.data.model.Book;
 import com.aavn.devday.booklibrary.data.model.BookDetail;
+import com.aavn.devday.booklibrary.data.model.BookViewModel;
 import com.bumptech.glide.Glide;
 
 import java.util.ArrayList;
@@ -21,7 +22,7 @@ import java.util.List;
 
 public class BookListAdapter extends RecyclerView.Adapter<BookListAdapter.BookViewHolder> {
 
-    private List<Book> items = new ArrayList<>();
+    private List<BookViewModel> items = new ArrayList<>();
 
     @NonNull
     @Override
@@ -32,7 +33,7 @@ public class BookListAdapter extends RecyclerView.Adapter<BookListAdapter.BookVi
 
     @Override
     public void onBindViewHolder(@NonNull BookViewHolder holder, int position) {
-        Book data = items.get(position);
+        BookViewModel data = items.get(position);
         holder.bindData(data);
     }
 
@@ -41,7 +42,7 @@ public class BookListAdapter extends RecyclerView.Adapter<BookListAdapter.BookVi
         return items.size();
     }
 
-    void setItems(List<Book> data) {
+    void setItems(List<BookViewModel> data) {
         items = new ArrayList<>();
         items.addAll(data);
         notifyDataSetChanged();
@@ -67,22 +68,25 @@ public class BookListAdapter extends RecyclerView.Adapter<BookListAdapter.BookVi
             coverIv = itemView.findViewById(R.id.iv_book_cover);
         }
 
-        void bindData(Book data) {
+        void bindData(BookViewModel data) {
             titleTv.setText(data.getTitle());
 
-            authorTv.setText(data.getAuthor());
-            if (data.getDetails() != null && !data.getDetails().isEmpty()) {
-                BookDetail bookDetail = data.getDetails().get(0);
-                authorTv.setText(bookDetail.getSource());
-                bindDescription(bookDetail.getDescription());
+            if(data.getSource() == null || data.getSource().isEmpty()){
+                authorTv.setText(data.getAuthor());
+            } else {
+                authorTv.setText(data.getSource());
+            }
 
+            if(data.getDescription() != null && !data.getDescription().isEmpty()){
+                bindDescription(data.getDescription());
+            }
+
+            if(data.getCoverUrl() != null && !data.getCoverUrl().isEmpty()){
                 Glide.with(coverIv)
-                        .load(bookDetail.getCoverUrl())
+                        .load(data.getCoverUrl())
                         .placeholder(R.drawable.book_cover_placeholder)
                         .thumbnail(0.1f)
                         .into(coverIv);
-            } else {
-                authorTv.setText(data.getAuthor());
             }
         }
 
