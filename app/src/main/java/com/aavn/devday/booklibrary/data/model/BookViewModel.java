@@ -1,18 +1,38 @@
 package com.aavn.devday.booklibrary.data.model;
 
 public class BookViewModel {
+    private Long id;
     private String title;
     private String author;
     private String description;
     private String coverUrl;
     private String source;
+    private Long bookDetailId;
 
-    public BookViewModel(String title, String author, String description, String coverUrl, String source) {
+    public BookViewModel(Long id, String title, String author, String description, String coverUrl, String source, Long bookDetailId) {
+        this.id = id;
         this.title = title;
         this.author = author;
         this.description= description;
         this.coverUrl = coverUrl;
         this.source = source;
+        this.bookDetailId = bookDetailId;
+    }
+
+    public Long getBookDetailId() {
+        return bookDetailId;
+    }
+
+    public void setBookDetailId(Long bookDetailId) {
+        this.bookDetailId = bookDetailId;
+    }
+
+    public Long getId() {
+        return id;
+    }
+
+    public void setId(Long id) {
+        this.id = id;
     }
 
     public String getTitle() {

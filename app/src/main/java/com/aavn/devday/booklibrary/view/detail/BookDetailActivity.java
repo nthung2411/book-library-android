@@ -22,6 +22,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.aavn.devday.booklibrary.R;
 import com.aavn.devday.booklibrary.data.model.Book;
 import com.aavn.devday.booklibrary.data.model.BookDetail;
+import com.aavn.devday.booklibrary.data.model.BookViewModel;
 import com.aavn.devday.booklibrary.data.model.ResponseData;
 import com.aavn.devday.booklibrary.viewmodel.BookDetailViewModel;
 import com.aavn.devday.booklibrary.viewmodel.BookListViewModel;
@@ -44,6 +45,7 @@ public class BookDetailActivity extends AppCompatActivity {
     private BookCommentListAdapter commentListAdapter;
 
     private Long bookId;
+    private Long bookDetailId;
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
@@ -65,6 +67,10 @@ public class BookDetailActivity extends AppCompatActivity {
                 bookDetailViewModel.writeComment(1L, etComment.getText().toString());
             }
         });
+        bookId = savedInstanceState.getLong("bookId");
+        bookDetailId = savedInstanceState.getLong("bookDetailId");
+
+        bookDetailViewModel.getBookDetail(bookId, bookDetailId);
         loadData();
     }
 
@@ -80,9 +86,9 @@ public class BookDetailActivity extends AppCompatActivity {
     }
 
     private void loadData() {
-        bookDetailViewModel.getBookLiveData().(this, new Observer<ResponseData<Book>>() {
+        bookDetailViewModel.getBookLiveData().observe(this, new Observer<ResponseData<BookViewModel>>() {
             @Override
-            public void onChanged(ResponseData<Book> response) {
+            public void onChanged(ResponseData<BookViewModel> response) {
                 switch (response.getState()) {
                     case LOADING:
                         loadingView.setVisibility(View.VISIBLE);
@@ -90,12 +96,14 @@ public class BookDetailActivity extends AppCompatActivity {
                         break;
                     case SUCCESS:
                         loadingView.setVisibility(View.GONE);
-                        if (response.getData() != null ) {
+                        BookViewModel data = response.getData();
+                        if (data != null ) {
+                            tvBookAuthor.setText(data.getAuthor());
+                            tvBookDescription.setText(data.getDescription());
+                            tvBookTitle.setText(data.getTitle());
+//                            commentListAdapter.setItems();
 //                            tvErrorMsg.setVisibility(View.VISIBLE);
 //                            tvErrorMsg.setText(getString(R.string.result_empty_msg));
-//                            commentListAdapter.setItems(response.getData());
-                        } else {
-//                            commentListAdapter.setItems(response.getData());
                         }
                         break;
                     default:

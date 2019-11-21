@@ -6,10 +6,13 @@ import androidx.lifecycle.ViewModel;
 
 import com.aavn.devday.booklibrary.data.model.Book;
 import com.aavn.devday.booklibrary.data.model.BookComment;
+import com.aavn.devday.booklibrary.data.model.BookDetail;
+import com.aavn.devday.booklibrary.data.model.BookViewModel;
 import com.aavn.devday.booklibrary.data.model.CommentRequest;
 import com.aavn.devday.booklibrary.data.model.ResponseData;
 import com.aavn.devday.booklibrary.data.repository.BookRepository;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import io.reactivex.SingleObserver;
@@ -20,7 +23,7 @@ import io.reactivex.schedulers.Schedulers;
 import okhttp3.Response;
 
 public class BookDetailViewModel extends ViewModel {
-    public MutableLiveData<ResponseData<Book>> bookLiveData = new MutableLiveData<>();
+    public MutableLiveData<ResponseData<BookViewModel>> bookLiveData = new MutableLiveData<>();
     private MutableLiveData<ResponseData<List<BookComment>>> bookComments = new MutableLiveData<>();
 
     BookRepository bookRepository;
@@ -35,7 +38,7 @@ public class BookDetailViewModel extends ViewModel {
         this.bookRepository = bookRepository;
     }
 
-    public LiveData<ResponseData<Book>> getBookLiveData() {
+    public LiveData<ResponseData<BookViewModel>> getBookLiveData() {
         return bookLiveData;
     }
 
@@ -49,7 +52,7 @@ public class BookDetailViewModel extends ViewModel {
         this.bookRepository.commentBook(bookDetailId, request);
     }
 
-    public void getBookDetail(Long id) {
+    public void getBookDetail(Long id, Long detailId) {
         bookLiveData.setValue(ResponseData.loading());
         bookRepository.getBookDetail(id)
                 .subscribeOn(Schedulers.io())
@@ -62,7 +65,7 @@ public class BookDetailViewModel extends ViewModel {
 
                     @Override
                     public void onSuccess(Book book) {
-                        bookLiveData.setValue(ResponseData.success(book));
+                        bookLiveData.setValue(ResponseData.success(parseBookToBookViewModel(book, detailId)));
                     }
 
                     @Override
@@ -70,6 +73,27 @@ public class BookDetailViewModel extends ViewModel {
                         bookLiveData.setValue(ResponseData.error(e.getMessage()));
                     }
                 });
+    }
+
+
+    private BookViewModel parseBookToBookViewModel(Book book, Long bookDetailId) {
+        BookViewModel bookViewModel;
+
+            if (book.getDetails() != null && !book.getDetails().isEmpty()) {
+                for (BookDetail detail : book.getDetails()) {
+                    if (detail.getId() == bookDetailId) {
+                        bookViewModel = new BookViewModel(book.getId(), book.getTitle(), book.getAuthor(),
+                                detail.getDescription(),detail.getCoverUrl(), detail.getSource(),
+                                detail.getId());
+                    }
+                }
+                bookViewModel = new BookViewModel(null, book.getTitle(), book.getAuthor(),
+                        null,null, null, null);
+            } else {
+                bookViewModel = new BookViewModel(null, book.getTitle(), book.getAuthor(),
+                        null,null, null, null);
+            }
+        return bookViewModel;
     }
 
     public void rateBook() {

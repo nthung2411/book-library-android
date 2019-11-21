@@ -133,9 +133,11 @@ public class MainActivity extends AppCompatActivity implements BookListAdapter.O
     }
 
     @Override
-    public void onItemClick(Book item) {
+    public void onItemClick(BookViewModel item) {
 
         Intent intent = new Intent(this, BookDetailActivity.class);
+        intent.putExtra("bookId", item.getId());
+        intent.putExtra("bookDetailId", item.getBookDetailId());
         startActivity(intent);
     }
 }

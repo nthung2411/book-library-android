@@ -5,6 +5,9 @@ import com.google.gson.annotations.SerializedName;
 import java.util.List;
 
 public class BookDetail {
+    @SerializedName("id")
+    private Long id;
+
     @SerializedName("description")
     private String description;
 
@@ -19,6 +22,14 @@ public class BookDetail {
 
     @SerializedName("ratings")
     private List<BookRating> ratings;
+
+    public Long getId() {
+        return id;
+    }
+
+    public void setId(Long id) {
+        this.id = id;
+    }
 
     public BookDetail(String description) {
         this.description = description;

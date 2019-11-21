@@ -73,15 +73,17 @@ public class BookListViewModel extends ViewModel {
             if (book.getDetails() != null && !book.getDetails().isEmpty()) {
                 for (BookDetail detail : book.getDetails()) {
                     bookViewModels.add(new BookViewModel(
+                            book.getId(),
                             book.getTitle(), book.getAuthor(),
                             detail.getDescription(),
                             detail.getCoverUrl(),
-                            detail.getSource()
+                            detail.getSource(),
+                            detail.getId()
                     ));
                 }
             } else {
-                bookViewModels.add(new BookViewModel(book.getTitle(), book.getAuthor(),
-                        null,null, null));
+                bookViewModels.add(new BookViewModel(null, book.getTitle(), book.getAuthor(),
+                        null,null, null, null));
             }
         }
         return bookViewModels;
