@@ -6,7 +6,16 @@
     "serialNumber": null,
     "details": [
       {
-        "id": null,
+        "id": 1,
+        "source": "OPEN_LIBRARY",
+        "description": "The rise of the Internet and the World Wide Web fundamentally reshaped computing.<br/>To fully understand Java, one must understand the reasons behind its creation, the forces that shaped it, and the legacy that it inherits.<br/>",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/62098-L.jpg"
+      },
+      {
+        "id": 2,
         "source": "OPEN_LIBRARY",
         "description": "The rise of the Internet and the World Wide Web fundamentally reshaped computing.<br/>To fully understand Java, one must understand the reasons behind its creation, the forces that shaped it, and the legacy that it inherits.<br/>",
         "comments": null,

@@ -8,6 +8,7 @@ import androidx.lifecycle.Observer;
 import com.aavn.devday.booklibrary.common.JsonHelper;
 import com.aavn.devday.booklibrary.common.RxImmediateSchedulerRule;
 import com.aavn.devday.booklibrary.data.model.Book;
+import com.aavn.devday.booklibrary.data.model.BookViewModel;
 import com.aavn.devday.booklibrary.data.model.ResponseData;
 import com.aavn.devday.booklibrary.data.repository.BookRepository;
 import com.aavn.devday.booklibrary.viewmodel.BookListViewModel;
@@ -49,7 +50,7 @@ public class BookListViewModelTest {
     private BookListViewModel mockBookListVM;
 
     @Mock
-    private Observer<ResponseData<List<Book>>> mockObserver;
+    private Observer<ResponseData<List<BookViewModel>>> mockObserver;
 
     @Mock
     private BookRepository mockBookRepo;
@@ -75,7 +76,7 @@ public class BookListViewModelTest {
 
         mockBookListVM.fetchDefaultBookList();
 
-        ArgumentCaptor<ResponseData<List<Book>>> captor = ArgumentCaptor.forClass(ResponseData.class);
+        ArgumentCaptor<ResponseData<List<BookViewModel>>> captor = ArgumentCaptor.forClass(ResponseData.class);
 
         verify(mockObserver, times(2)).onChanged(captor.capture());
 
@@ -94,7 +95,7 @@ public class BookListViewModelTest {
 
         mockBookListVM.fetchDefaultBookList();
 
-        ArgumentCaptor<ResponseData<List<Book>>> captor = ArgumentCaptor.forClass(ResponseData.class);
+        ArgumentCaptor<ResponseData<List<BookViewModel>>> captor = ArgumentCaptor.forClass(ResponseData.class);
 
         verify(mockObserver, times(2)).onChanged(captor.capture());
 
@@ -110,7 +111,7 @@ public class BookListViewModelTest {
 
         mockBookListVM.searchBook("java");
 
-        ArgumentCaptor<ResponseData<List<Book>>> captor = ArgumentCaptor.forClass(ResponseData.class);
+        ArgumentCaptor<ResponseData<List<BookViewModel>>> captor = ArgumentCaptor.forClass(ResponseData.class);
 
         verify(mockObserver, times(2)).onChanged(captor.capture());
 
@@ -129,13 +130,13 @@ public class BookListViewModelTest {
 
         mockBookListVM.searchBook("java");
 
-        ArgumentCaptor<ResponseData<List<Book>>> captor = ArgumentCaptor.forClass(ResponseData.class);
+        ArgumentCaptor<ResponseData<List<BookViewModel>>> captor = ArgumentCaptor.forClass(ResponseData.class);
 
         verify(mockObserver, times(2)).onChanged(captor.capture());
 
         assertEquals(ResponseData.State.LOADING, captor.getAllValues().get(0).getState());
         assertEquals(ResponseData.State.SUCCESS, captor.getAllValues().get(1).getState());
-        assertEquals(160, captor.getAllValues().get(1).getData().size());
+        assertEquals(161, captor.getAllValues().get(1).getData().size());
         assertEquals("Java", captor.getAllValues().get(1).getData().get(0).getTitle());
     }
 
