@@ -1,5 +1,6 @@
 package com.aavn.devday.booklibrary.data.repository;
 
+import com.aavn.devday.booklibrary.data.model.BookComment;
 import com.aavn.devday.booklibrary.data.model.BookDetail;
 import com.aavn.devday.booklibrary.data.remote.RetrofitInstance;
 import com.aavn.devday.booklibrary.data.model.Book;
@@ -13,6 +14,10 @@ import io.reactivex.Single;
 import retrofit2.Call;
 
 public class BookRepository {
+
+    public Single<List<BookComment>> getCommentsByBookId(Long bookId) {
+        return RetrofitInstance.getRetrofit().create(BookService.class).getListCommentByBookId(bookId);
+    }
 
     public Single<List<Book>> searchBook(String keyword) {
         return RetrofitInstance.getRetrofit().create(BookService.class).searchBook(new SearchBookRequest(keyword));
