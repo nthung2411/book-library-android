@@ -33,10 +33,14 @@ public class BookCommentListAdapter extends RecyclerView.Adapter<BookCommentList
 
     public void setItems(List<BookComment> comments) {
         this.comments = comments;
+        notifyDataSetChanged();
     }
 
     @Override
     public int getItemCount() {
+        if (comments == null) {
+            return 0;
+        }
         return comments.size();
     }
 
@@ -53,13 +57,13 @@ public class BookCommentListAdapter extends RecyclerView.Adapter<BookCommentList
 
         BookCommentViewHolder(@NonNull View itemView) {
             super(itemView);
-            tvUser = itemView.findViewById(R.id.tv_item_book_title);
-            tvComment = itemView.findViewById(R.id.tv_item_book_brief_description);
+            tvUser = itemView.findViewById(R.id.tv_item_comment_username);
+            tvComment = itemView.findViewById(R.id.tv_item_comment_comment);
         }
 
         void bindData(BookComment comment) {
             if (comment != null) {
-                if (comment.getUser() != null) {
+                if (comment.getUser() != null && comment.getUser().getFullName() != null) {
                     tvUser.setText(comment.getUser().getFullName());
                 }
                 tvComment.setText(comment.getContent());

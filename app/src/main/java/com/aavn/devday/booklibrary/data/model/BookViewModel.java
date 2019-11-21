@@ -1,5 +1,8 @@
 package com.aavn.devday.booklibrary.data.model;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class BookViewModel {
     private Long id;
     private String title;
@@ -8,6 +11,8 @@ public class BookViewModel {
     private String coverUrl;
     private String source;
     private Long bookDetailId;
+    private List<BookComment> bookComments;
+    private int averageRating;
 
     public BookViewModel(Long id, String title, String author, String description, String coverUrl, String source, Long bookDetailId) {
         this.id = id;
@@ -17,6 +22,23 @@ public class BookViewModel {
         this.coverUrl = coverUrl;
         this.source = source;
         this.bookDetailId = bookDetailId;
+        this.bookComments = new ArrayList<>();
+    }
+
+    public int getAverageRating() {
+        return averageRating;
+    }
+
+    public void setAverageRating(int averageRating) {
+        this.averageRating = averageRating;
+    }
+
+    public List<BookComment> getBookComments() {
+        return bookComments;
+    }
+
+    public void setBookComments(List<BookComment> bookComments) {
+        this.bookComments = bookComments;
     }
 
     public Long getBookDetailId() {

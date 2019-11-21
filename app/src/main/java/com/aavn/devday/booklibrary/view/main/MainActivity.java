@@ -26,6 +26,7 @@ import com.aavn.devday.booklibrary.data.model.BookViewModel;
 import com.aavn.devday.booklibrary.data.model.ResponseData;
 import com.aavn.devday.booklibrary.view.detail.BookDetailActivity;
 import com.aavn.devday.booklibrary.viewmodel.BookListViewModel;
+import com.google.gson.Gson;
 
 import java.util.List;
 
@@ -69,7 +70,6 @@ public class MainActivity extends AppCompatActivity implements BookListAdapter.O
 
         loadDefaultBookList();
 
-        Toast.makeText(this, "Welcome " + UserManager.getInstance().getUserInfo().getUsername(), Toast.LENGTH_LONG).show();
     }
 
     private void bindView() {
@@ -138,6 +138,7 @@ public class MainActivity extends AppCompatActivity implements BookListAdapter.O
         Intent intent = new Intent(this, BookDetailActivity.class);
         intent.putExtra("bookId", item.getId());
         intent.putExtra("bookDetailId", item.getBookDetailId());
+        intent.putExtra("book", new Gson().toJson(item));
         startActivity(intent);
     }
 }

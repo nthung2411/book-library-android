@@ -1,7 +1,9 @@
 package com.aavn.devday.booklibrary.view.detail;
 
 import android.content.Context;
+import android.os.Build;
 import android.os.Bundle;
+import android.text.Html;
 import android.view.KeyEvent;
 import android.view.View;
 import android.view.inputmethod.EditorInfo;
@@ -21,11 +23,14 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.aavn.devday.booklibrary.R;
 import com.aavn.devday.booklibrary.data.model.Book;
+import com.aavn.devday.booklibrary.data.model.BookComment;
 import com.aavn.devday.booklibrary.data.model.BookDetail;
 import com.aavn.devday.booklibrary.data.model.BookViewModel;
 import com.aavn.devday.booklibrary.data.model.ResponseData;
 import com.aavn.devday.booklibrary.viewmodel.BookDetailViewModel;
 import com.aavn.devday.booklibrary.viewmodel.BookListViewModel;
+import com.bumptech.glide.Glide;
+import com.google.gson.Gson;
 
 import java.util.List;
 
@@ -64,13 +69,37 @@ public class BookDetailActivity extends AppCompatActivity {
         btnSubmitComment.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                bookDetailViewModel.writeComment(1L, etComment.getText().toString());
+                if (bookDetailId > 0 && etComment != null && etComment.getText() != null) {
+                    bookDetailViewModel.writeComment(bookDetailId, etComment.getText().toString());
+                    etComment.setText("");
+                }
             }
         });
-        bookId = savedInstanceState.getLong("bookId");
-        bookDetailId = savedInstanceState.getLong("bookDetailId");
+        bookId = getIntent().getLongExtra("bookId", 0L);
+        bookDetailId = getIntent().getLongExtra("bookDetailId", 0L);
 
-        bookDetailViewModel.getBookDetail(bookId, bookDetailId);
+        if (bookId > 0 || bookDetailId > 0) {
+            bookDetailViewModel.getBookDetail(bookId, bookDetailId);
+            bookDetailViewModel.getBookComments(bookId);
+        } else {
+            BookViewModel bookViewModel = new Gson().fromJson(getIntent().getStringExtra("book"), BookViewModel.class);
+            if (bookViewModel != null) {
+                tvBookTitle.setText(bookViewModel.getTitle());
+                tvBookAuthor.setText(bookViewModel.getAuthor());
+                bindDescription(bookViewModel.getDescription());
+                if (bookViewModel.getBookComments() != null && !bookViewModel.getBookComments().isEmpty())
+                commentListAdapter.setItems(bookViewModel.getBookComments());
+
+                if (bookViewModel.getCoverUrl() != null && !bookViewModel.getCoverUrl().isEmpty()) {
+                    Glide.with(ivBookCover)
+                            .load(bookViewModel.getCoverUrl())
+                            .placeholder(R.drawable.book_cover_placeholder)
+                            .thumbnail(0.1f)
+                            .into(ivBookCover);
+                }
+
+            }
+        }
         loadData();
     }
 
@@ -83,9 +112,32 @@ public class BookDetailActivity extends AppCompatActivity {
         tvBookDescription = findViewById(R.id.tv_item_book_description);
         rvBookComments = findViewById(R.id.rv_comments);
         loadingView = findViewById(R.id.view_loading);
+        btnSubmitComment = findViewById(R.id.btn_submit_comment);
     }
 
     private void loadData() {
+        bookDetailViewModel.getCommentsLiveData().observe(this, new Observer<ResponseData<List<BookComment>>>() {
+            @Override
+            public void onChanged(ResponseData<List<BookComment>> response) {
+                switch (response.getState()) {
+                    case LOADING:
+                        loadingView.setVisibility(View.VISIBLE);
+                        commentListAdapter.clearData();
+                        break;
+                    case SUCCESS:
+                        loadingView.setVisibility(View.GONE);
+                        List<BookComment> data = response.getData();
+                        if (data != null && !data.isEmpty()) {
+                            commentListAdapter.setItems(data);
+                        }
+                        break;
+                    default:
+                        loadingView.setVisibility(View.GONE);
+                        commentListAdapter.clearData();
+                        break;
+                }
+            }
+        });
         bookDetailViewModel.getBookLiveData().observe(this, new Observer<ResponseData<BookViewModel>>() {
             @Override
             public void onChanged(ResponseData<BookViewModel> response) {
@@ -99,21 +151,38 @@ public class BookDetailActivity extends AppCompatActivity {
                         BookViewModel data = response.getData();
                         if (data != null ) {
                             tvBookAuthor.setText(data.getAuthor());
-                            tvBookDescription.setText(data.getDescription());
+                            bindDescription(data.getDescription());
                             tvBookTitle.setText(data.getTitle());
-//                            commentListAdapter.setItems();
-//                            tvErrorMsg.setVisibility(View.VISIBLE);
-//                            tvErrorMsg.setText(getString(R.string.result_empty_msg));
+                            rbBookRating.setRating(data.getAverageRating());
+                            if (data.getCoverUrl() != null && !data.getCoverUrl().isEmpty()) {
+                                Glide.with(ivBookCover)
+                                        .load(data.getCoverUrl())
+                                        .placeholder(R.drawable.book_cover_placeholder)
+                                        .thumbnail(0.1f)
+                                        .into(ivBookCover);
+                            }
                         }
                         break;
                     default:
                         loadingView.setVisibility(View.GONE);
-//                        tvErrorMsg.setVisibility(View.VISIBLE);
-//                        tvErrorMsg.setText(getString(R.string.general_error_msg));
                         break;
                 }
             }
         });
+    }
+
+
+    private void bindDescription(String rawData){
+        String description = "";
+
+        if(rawData != null && rawData.length() > 0){
+            description = rawData;
+        }
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.N) {
+            tvBookDescription.setText(Html.fromHtml(description, Html.FROM_HTML_MODE_COMPACT));
+        } else {
+            tvBookDescription.setText(Html.fromHtml(description));
+        }
     }
 
 

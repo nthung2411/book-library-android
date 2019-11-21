@@ -6,6 +6,7 @@ import androidx.lifecycle.ViewModel;
 
 import com.aavn.devday.booklibrary.data.model.Book;
 import com.aavn.devday.booklibrary.data.model.BookDetail;
+import com.aavn.devday.booklibrary.data.model.BookRating;
 import com.aavn.devday.booklibrary.data.model.BookViewModel;
 import com.aavn.devday.booklibrary.data.model.ResponseData;
 import com.aavn.devday.booklibrary.data.repository.BookRepository;
@@ -72,14 +73,24 @@ public class BookListViewModel extends ViewModel {
         for (Book book : books) {
             if (book.getDetails() != null && !book.getDetails().isEmpty()) {
                 for (BookDetail detail : book.getDetails()) {
-                    bookViewModels.add(new BookViewModel(
+                    BookViewModel viewModel = new BookViewModel(
                             book.getId(),
                             book.getTitle(), book.getAuthor(),
                             detail.getDescription(),
                             detail.getCoverUrl(),
                             detail.getSource(),
                             detail.getId()
-                    ));
+                    );
+                    viewModel.setBookComments(detail.getComments());
+                    if (detail.getRatings() != null && !detail.getRatings().isEmpty()) {
+                        int sumRating = 0;
+                        for (BookRating rating : detail.getRatings()) {
+                            sumRating += rating.getValue();
+                        }
+                        int avgRating = sumRating/(detail.getRatings().size());
+                        viewModel.setAverageRating(avgRating);
+                    }
+                    bookViewModels.add(viewModel);
                 }
             } else {
                 bookViewModels.add(new BookViewModel(null, book.getTitle(), book.getAuthor(),

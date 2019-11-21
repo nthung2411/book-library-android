@@ -37,6 +37,7 @@
             android:orientation="vertical"
             android:layout_width="0dp"
             android:layout_weight="1"
+            android:layout_margin="5dp"
             android:layout_height="match_parent">
         <TextView
             android:id="@+id/tv_item_book_title"
@@ -59,11 +60,13 @@
 
             <RatingBar
                 android:id="@+id/rb_item_book_rating"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="20dp"
                 android:numStars="5"
-                android:rating="5"
-                android:stepSize="0.5"
+                android:rating="0"
+                android:isIndicator="true"
+                style="?android:attr/ratingBarStyleSmall"
+                android:stepSize="1"
                 />
         </LinearLayout>
     </LinearLayout>
@@ -79,18 +82,23 @@
     <LinearLayout
         android:orientation="horizontal"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:weightSum="2">
         <EditText
+            android:hint="Write your comment ..."
             android:id="@+id/et_item_book_comment"
-            android:layout_width="match_parent"
+            android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
-            android:minLines="2">
+            android:minLines="2"
+            android:layout_weight="1.3">
         </EditText>
         <Button
+            android:text="Comment"
             android:id="@+id/btn_submit_comment"
-            android:layout_width="100dp"
-            android:layout_height="50dp" />
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="0.7"/>
     </LinearLayout>
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_comments"

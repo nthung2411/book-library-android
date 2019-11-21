@@ -7,6 +7,7 @@ import androidx.lifecycle.ViewModel;
 import com.aavn.devday.booklibrary.data.model.Book;
 import com.aavn.devday.booklibrary.data.model.BookComment;
 import com.aavn.devday.booklibrary.data.model.BookDetail;
+import com.aavn.devday.booklibrary.data.model.BookRating;
 import com.aavn.devday.booklibrary.data.model.BookViewModel;
 import com.aavn.devday.booklibrary.data.model.CommentRequest;
 import com.aavn.devday.booklibrary.data.model.ResponseData;
@@ -75,9 +76,32 @@ public class BookDetailViewModel extends ViewModel {
                 });
     }
 
+    public void getBookComments(Long id) {
+        bookComments.setValue(ResponseData.loading());
+        bookRepository.getCommentsByBookId(id)
+                .subscribeOn(Schedulers.io())
+                .observeOn(AndroidSchedulers.mainThread())
+                .subscribe(new SingleObserver<List<BookComment>>() {
+                    @Override
+                    public void onSubscribe(Disposable d) {
+                        compositeDisposable.add(d);
+                    }
+
+                    @Override
+                    public void onSuccess(List<BookComment> comments) {
+                        bookComments.setValue(ResponseData.success(comments));
+                    }
+
+                    @Override
+                    public void onError(Throwable e) {
+                        bookComments.setValue(ResponseData.error(e.getMessage()));
+                    }
+                });
+    }
+
 
     private BookViewModel parseBookToBookViewModel(Book book, Long bookDetailId) {
-        BookViewModel bookViewModel;
+        BookViewModel bookViewModel = null;
 
             if (book.getDetails() != null && !book.getDetails().isEmpty()) {
                 for (BookDetail detail : book.getDetails()) {
@@ -85,10 +109,17 @@ public class BookDetailViewModel extends ViewModel {
                         bookViewModel = new BookViewModel(book.getId(), book.getTitle(), book.getAuthor(),
                                 detail.getDescription(),detail.getCoverUrl(), detail.getSource(),
                                 detail.getId());
+                        bookViewModel.setBookComments(detail.getComments());
+                        if (detail.getRatings() != null && !detail.getRatings().isEmpty()) {
+                            int sumRating = 0;
+                        for (BookRating rating : detail.getRatings()) {
+                            sumRating += rating.getValue();
+                        }
+                        int avgRating = sumRating/(detail.getRatings().size());
+                        bookViewModel.setAverageRating(avgRating);
+                        }
                     }
                 }
-                bookViewModel = new BookViewModel(null, book.getTitle(), book.getAuthor(),
-                        null,null, null, null);
             } else {
                 bookViewModel = new BookViewModel(null, book.getTitle(), book.getAuthor(),
                         null,null, null, null);
@@ -97,14 +128,6 @@ public class BookDetailViewModel extends ViewModel {
     }
 
     public void rateBook() {
-
-    }
-
-    public void getComments() {
-
-    }
-
-    public void getRate() {
 
     }
 
