@@ -22,6 +22,7 @@ import android.widget.Toast;
 import com.aavn.devday.booklibrary.R;
 import com.aavn.devday.booklibrary.data.manager.UserManager;
 import com.aavn.devday.booklibrary.data.model.Book;
+import com.aavn.devday.booklibrary.data.model.BookViewModel;
 import com.aavn.devday.booklibrary.data.model.ResponseData;
 import com.aavn.devday.booklibrary.view.detail.BookDetailActivity;
 import com.aavn.devday.booklibrary.viewmodel.BookListViewModel;
@@ -103,9 +104,9 @@ public class MainActivity extends AppCompatActivity implements BookListAdapter.O
     }
 
     private void observeBookListData() {
-        bookListViewModel.getBookListLiveData().observe(this, new Observer<ResponseData<List<Book>>>() {
+        bookListViewModel.getBookListLiveData().observe(this, new Observer<ResponseData<List<BookViewModel>>>() {
             @Override
-            public void onChanged(ResponseData<List<Book>> response) {
+            public void onChanged(ResponseData<List<BookViewModel>> response) {
                 switch (response.getState()) {
                     case LOADING:
                         tvErrorMsg.setVisibility(View.GONE);

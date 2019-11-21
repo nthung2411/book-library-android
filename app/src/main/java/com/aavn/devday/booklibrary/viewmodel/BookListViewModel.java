@@ -5,9 +5,12 @@ import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
 import com.aavn.devday.booklibrary.data.model.Book;
+import com.aavn.devday.booklibrary.data.model.BookDetail;
+import com.aavn.devday.booklibrary.data.model.BookViewModel;
 import com.aavn.devday.booklibrary.data.model.ResponseData;
 import com.aavn.devday.booklibrary.data.repository.BookRepository;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import io.reactivex.SingleObserver;
@@ -17,7 +20,7 @@ import io.reactivex.disposables.Disposable;
 import io.reactivex.schedulers.Schedulers;
 
 public class BookListViewModel extends ViewModel {
-    private MutableLiveData<ResponseData<List<Book>>> bookListLiveData = new MutableLiveData<>();
+    private MutableLiveData<ResponseData<List<BookViewModel>>> bookListLiveData = new MutableLiveData<>();
 
     private BookRepository bookRepository;
 
@@ -32,7 +35,7 @@ public class BookListViewModel extends ViewModel {
         this.bookRepository = bookRepository;
     }
 
-    public LiveData<ResponseData<List<Book>>> getBookListLiveData() {
+    public LiveData<ResponseData<List<BookViewModel>>> getBookListLiveData() {
         return bookListLiveData;
     }
 
@@ -50,7 +53,9 @@ public class BookListViewModel extends ViewModel {
 
                     @Override
                     public void onSuccess(List<Book> books) {
-                        bookListLiveData.setValue(ResponseData.success(books));
+                        List<BookViewModel> bookViewModels = parseBookToBookViewModels(books);
+
+                        bookListLiveData.setValue(ResponseData.success(bookViewModels));
                     }
 
                     @Override
@@ -59,6 +64,27 @@ public class BookListViewModel extends ViewModel {
                     }
                 });
 
+    }
+
+    private List<BookViewModel> parseBookToBookViewModels(List<Book> books) {
+        List<BookViewModel> bookViewModels = new ArrayList<>();
+
+        for (Book book : books) {
+            if (book.getDetails() != null && !book.getDetails().isEmpty()) {
+                for (BookDetail detail : book.getDetails()) {
+                    bookViewModels.add(new BookViewModel(
+                            book.getTitle(), book.getAuthor(),
+                            detail.getDescription(),
+                            detail.getCoverUrl(),
+                            detail.getSource()
+                    ));
+                }
+            } else {
+                bookViewModels.add(new BookViewModel(book.getTitle(), book.getAuthor(),
+                        null,null, null));
+            }
+        }
+        return bookViewModels;
     }
 
     public void fetchDefaultBookList() {
@@ -75,7 +101,9 @@ public class BookListViewModel extends ViewModel {
 
                     @Override
                     public void onSuccess(List<Book> books) {
-                        bookListLiveData.setValue(ResponseData.success(books));
+                        List<BookViewModel> bookViewModels = parseBookToBookViewModels(books);
+
+                        bookListLiveData.setValue(ResponseData.success(bookViewModels));
                     }
 
                     @Override
