@@ -1,0 +1,2882 @@
+[
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Herbert Schildt",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "The rise of the Internet and the World Wide Web fundamentally reshaped computing.<br/>To fully understand Java, one must understand the reasons behind its creation, the forces that shaped it, and the legacy that it inherits.<br/>",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/62098-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Peter Hutton",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Kenneth Alfred LambertKenneth Lambert; Martin Osborne; ",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/4666213-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Harvey M. Deitel",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/5427361-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Walter J. Savitch",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/7122585-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Walter SavitchWalter J. Savitch; ",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/87702-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Paul J. Deitel",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/8680206-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Todd Knowlton",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/1275715-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Karl With",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/5957205-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java Head",
+    "author": "Joseph Hergesheimer",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "VERY late indeed in May, but early in the morning, Laurel Ammidon lay in bed considering two widely different aspects of chairs.<br/>",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/5820033-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Fintan Culwin",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/92296-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "DEITEL",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/2346954-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Eliza Ruhamah Scidmore",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/5888097-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Joel AdamsLarry R. Nyhoff; Jeffrey Nyhoff; Jeffrey L. Nyhoff; Joel C. Adams; ",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/81129-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Walter J. SavitchWalter Savitch; Walter Szvitch; ",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Big Java",
+    "author": "Cay S. Horstmann",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "The purpose of this chapter is to familiarize you with the concept of programming.<br/>",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/1239523-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Colin McCormack",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/2391856-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Michael A. Smith",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/66490-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Arthur Griffith",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/3057955-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Harvey & Paul) Deitel & Associates",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/1108057-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Liwu Li",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/1019178-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java!",
+    "author": "Tim Ritchey",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/794908-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Eric Oey",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "The island of Java is incredibly beautiful.<br/>",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/4976337-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Insight GuidesPeter Hutton; ",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/6639176-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Neil FawcettTerry Ridge; ",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/1400025-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Eric Oey",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "J. David Day",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Roger GarsideJohn Mariani; ",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Jason J. Manger",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/2318463-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Karl BarksdaleE. Shane Turner; ",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Byron Weber Becker",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/395368-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Stuart Lewis",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/2657835-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Clara Malraux",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Turner, Peter",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Ernest Friedman-Hill",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "The safety and dynamic qualities of Java make it an excellent choice for around-the-clock application deployment, while Java's portability and ease of use make it a winner for developing server-side Web applications.<br/>",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/520888-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "SAVITCH",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/2346938-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Hugh J. Vincent",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/2318500-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "H. M. Dietel",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "JAVA",
+    "author": "Stacy J. Lewis",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/1720902-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Marcelo Dos Santos",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/2303926-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Justin Corfield",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "PerilplusPeriplus Editions Staff; ",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Quentin CharatanAaron Kans; ",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Kim BruceAndrea Danyluk; Thomas Murtagh; ",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Kim BruceAndrea Danyluk; Thomas Murtagh; ",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Kenneth A. LambertMartin Osborne; ",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Ernest J Friedman-HillMaranGraphics; ",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Quentin CharatanAaron Kans; ",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Roger GarsideJohn Mariani; ",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Kenneth A. LambertMartin Osborne; ",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "James R. Rush",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/2294990-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "A. Azis Hassan",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Timothy R. Fisher",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Walczak, Krzysztof (informatyk)",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Chris Wright",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/2402951-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Chris Wright",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/2400404-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Patrick Naughton",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/66771-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "T. Grandon Gill",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Bell/Parr",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/3277145-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "JAVA",
+    "author": "Walter J. Savitch",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Isabelle Valembois",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "James William B. Money",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/6131470-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "S. J. Higginson",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "John Latham",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/6691403-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Paul J. Deitel",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java ",
+    "author": "Cay S. Horstmann",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Walter J. Savitch",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Augusta de Wit",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "David Etheridge",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "David Etheridge",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "David Etheridge",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Franz Wilhelm Junghuhn",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Michael Sikora",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "The Java language was released in 1995 at the time of explosive growth in the Internet.<br/>",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/784323-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Franz Wilhelm Junghuhn",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "J. W. B. Money",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/5957206-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "SparkNotes Editors",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/1955714-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "J.W.B. Money",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Walter J. Savitch",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Herbert Schildt",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Cay S. HorstmannGary Cornell; ",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "David Etheridge",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Alexander Newman",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/8332272-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Eric Oey",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/2293763-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Chris Wright",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/641575-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Hendrik Herman Juynboll",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/7379270-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Harvey M. DeitelPaul J. Deitel; ",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/1107527-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "James William B. Money",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/8606063-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Franz Wilhelm Junghuhn",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/5869584-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Herbert Schildt",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/8514963-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Anthony Potts",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/4837435-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Franz Wilhelm JunghuhnFrans Junghuhn; ",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://covers.openlibrary.org/w/id/6082594-L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java",
+    "author": "Eric Oey",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "OPEN_LIBRARY",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java in a Nutshell : A Desktop Quick Reference (Java Series) (3rd Edition)",
+    "author": "David Flanagan",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\n<div><p>This bestselling quick reference  contains an accelerated introduction to the Java language and its key APIs, so seasoned programmers can start writing Java code right away.  The third edition of <i>Java in a Nutshell</i> covers Java 1.2 and Java 1.3 beta and includes:</p><ul><li>A description of the syntax of the Java language, written in a tight, concise style, that can serve as both a fast-paced tutorial and a language reference.</li><li>An explanation of the object-oriented features of Java that does not assume any prior object-oriented programming experience.</li><li>An overview of the essential Java APIs that shows how to perform common tasks, such as string manipulation, input/output, and thread handling, with the classes and interfaces that comprise the Java 2 platform.</li><li>Documentation for the Java development tools shipped with Sun's Java SDK.</li></ul>This book also includes O'Reilly's classic-style, quick-reference material for all of the classes in the essential Java packages, including <i>java.lang,</i> <i>java.io,</i> <i>java.beans</i><i>java.math,</i> <i>java.net,</i> <i>java.security,</i><i>java.text,</i> <i>java.util,</i> and <i>javax.crypto</i>.  This reference material covers all of the new classes in Java 1.2 and 1.3. Once you've learned Java, you'll keep this book next to your keyboard for handy reference while you program.This book is part of the two-volume set of quick references that every Java programmer needs.  It is an essential companion to <i>Java Foundation Classes in a Nutshell,</i> which covers the graphics and graphical user interface APIs in the Java 2 platform, including Swing, AWT, and Java 2D.  A third volume, <i>Java Enterprise in a Nutshell,</i> focuses on the Java Enterprise APIs and is of interest to programmers working on server-side or enterprise Java applications.</div>\n\n<p><br>\n\n<i>Amazon.com Review</I><br>\nThe 3rd edition of the well-known reference, <I>Java in a Nutshell</I>, covers the essential APIs of Java 1.2, including networking, security, input and output, and basic language and utility classes. Due to the size of the Java 1.2 API, graphics and graphical user interface classes are now examined in a volume called <I>Java Foundation Classes in a Nutshell</I>, and server-side and enterprise programming are detailed in <I>Java Enterprise in a Nutshell</I>. <p> Though primarily a reference, the book starts off with a thorough, fast-paced introduction to Java, exploring all the key topics, including syntax, object-oriented programming, security, beans, and tools. These discussions are brief and very information-dense, and if you are buying this book to learn the language, you will probably be overwhelmed by the speed of this initiation. <p> This book intends to document quite a bit of Java, and it easily succeeds with broad coverage of Java programming in Part I, and API cataloging broken down by package in Part II. For example, discussions in Part I explain Types, Reflection, and Dynamic Loading. The handling of these topics takes a little over a page, but the book gives a useful overview with code examples that clearly illustrate the points made. It is one of the clearest and most concise treatments of these three topics available. <p> The chapters in Part II include an introduction, diagrams, and sections for each class in the package. The sections for each class can be very informative, as in the discussion of the Socket class in the java.net chapter, which includes how to instantiate a Socket object, getting I/O streams from the object you instantiated, and how to alter the behavior of sockets. This discussion, like most in this book, is brief, clear, and to the point. <p> If you are looking for a Java reference, this is a solid volume that will provide lasting value. <I>--John Keogh</I><p> <B>Topics covered</B>: Part I, \"Introducing Java,\" provides broad coverage of Java programming topics, including data types, syntax, classes, and objects; Java file structure; inner classes; interfaces; packages; creating and initializing objects; destroying and finalizing objects; input/output; cryptography; networking; security; threads; JavaBeans; JavaDoc; and tools that come with Java 1.2 SDK. <p> Part II, \"The Java API Quick Reference,\" includes chapters on the following Java packages: java.beans, java.beans.beancontext, java.io, java.lang, java.lang.ref, java.lang.reflect, java.math, java.net, java.security, java.security.acl, java.security.cert, java.security.interfaces, java.security.spec, java.text, java.util, java.util.jar, java.util.zip, javax.crypto, javax.crypto.interfaces, javax.crypto.spec, and a final chapter, which provides an index for classes, methods, and fields.\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/51ZtE31nrDL.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Perl and CGI for the World Wide Web (Visual QuickStart Guide)",
+    "author": "Elizabeth Castro",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java in a Nutshell: A Desktop Quick Reference for Java Programmers (In a Nutshell (O'Reilly))",
+    "author": "David Flanagan",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java Examples in A Nutshell",
+    "author": "David Flanagan",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\n<p><i>Java Examples in a Nutshell</i> is chock full of practical real-world Java programming examples.  The author of the bestselling<i>Java in a Nutshell</i> has created an entire book of example programs that you can learn from and modify for your own use.  If you learn best \"by example,\" this is the book for you.This book is a companion volume to <i>Java in a Nutshell</i>.  While<i>Java in a Nutshell</i> is a quick-reference at heart, it also includes an accelerated introduction to Java programming.  <i>Java Examples in a Nutshell</i> picks up where that book leaves off, providing a suite of example programs for novice Java programmers and experts alike.  This book doesn't hold your hand or supply detailed explanations of Java syntax or method calls; it simply delivers well-commented working examples that help you explore the wide range of what is possible with Java 1.1. Each chapter concludes with programming  exercises that suggest further avenues for building on what you have learned.<i>Java Examples in a Nutshell</i> contains all of the example programs  from the first edition of <i>Java in a Nutshell</i>, completely updated  for Java 1.1.  In addition, the I/O, networking, and GUI chapters have  been augmented to include even more practical examples. It also expands  on the examples from the second edition of <i>Java in a Nutshell</i> that  demonstrate the new features in Java 1.1, including the new AWT event  handling model, the JavaBeans API, internationalization, object serialization,  and reflection.In addition, this book provides never-before-published programming examples  for remote method invocation, database connectivity, and security -- important  elements of the Java Enterprise APIs. Finally, the book offers a glimpse of the features of \"Swing,\" the set of new components that are part of the forthcoming Java Foundation Classes (JFC).</p>\n\n<p><br>\n\n<i>Amazon.com Review</I><br>\nAimed at those who have some previous Java experience, <I>Java Examples  in a Nutshell, 2nd Edition </I> provides an outstanding collection of code  samples that are designed to help you improve your programming skills--by  studying code that works. With over 150 expert examples that illustrate a wide  range of Java APIs, this volume definitely can bring your knowledge of Java to  the next level.<p>  Many programming titles rely on code excerpts to illustrate key programming  concepts. This book reverses that approach by emphasizing the code itself,  enhancing it with introductory material and explanations. While some short  examples illustrate simple algorithms (such as random-number generation and  sorting), many of the examples are substantial: for example, how to create a  multithreaded Web server, a proxy server, and even a simple Web browser (by  using built-in Swing classes for a user interface). These longer examples occupy  several pages; generally, they're well-commented models of coding clarity.<p>  This second edition adds extensive support for the Java 2 JDK 1.3 standard.  Later sections provide sample code on most recent developments in enterprise  APIs, including Swing, JDBC, and XML. This text concludes with one of the best  short tutorials that you're likely to find anywhere on JSP and servlet  programming, including excellent detail on deploying JSP-based Web  applications.<p>  Although it's designed to be a companion title to  <I>Java in a Nutshell</I> and  other O'Reilly Java offerings, there's little doubt that this book stands on its  own quite well. And, given the short exercises at the end of every chapter that  help you expand your command of Java features and APIs, this is a worthy and  up-to-date resource for all levels of Java programmers. <I>--Richard  Dragan</I><p>  <B>Topics covered:</B><table cellspacing=\"7\"  border=\"0\"><ul><ol><tr><td><li>Library of Java 2 code samples <li>A \"Hello  world\" example <li>Mathematical calculations and algorithms (the Fibonacci  Series, factorials, prime-number generation, sorting, exception handling)  <li>Basic class design (classes for graphics, random numbers, and a linked list)  <li>Java file I/O (including opening, reading, and writing files) <li>Filtering  file streams <li>Java threads and multitasking techniques <li>Java networking  classes (URLs and connections, sending e-mail) <li>Sample code for custom Web  servers and proxy servers <li>Security and cryptography <li>Basic  internationalization <li>The Java reflection APIs <td><br><td><li>Object  serialization <li>Swing user-interface design <li>Code for a simple Web browser,  based on Swing <li>Tutorial for AWT and Java 2-D graphics <li>Printing  techniques <li>Cutting and pasting data in Java <li>JavaBeans (custom  components, bean property editors, customizers) <li>Applet basics (including JDK  1.0 event handling and JAR files) <li>Remote Method Invocation (RMI) <li>Sample  code for a Multiuser Domain (MUD) server <li>Database and JDBC programming  <li>Servlet and JavaServer Pages (JSPs) tutorial <li>XML and Java (including  JAXP, SAX 1 and 2, and JDOM)</ol></ul></table>\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/51iXU-wtNvL.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java Servlet Programming (Java Series)",
+    "author": "Jason Hunter",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\n<p>A few years ago, the hype surrounding applets put Java on the map as a programming language for the Web. Today, Java servlets stand poised to take Java to the next level as a Web development language. The main reason is that servlets offer a fast, powerful, portable replacement for CGI scripts.The Java Servlet API, introduced as the first standard extension to Java, provides a generic mechanism to extend the functionality of any kind of server. Servlets are most commonly used, however, to extend Web servers, performing tasks traditionally handled by CGI programs. Web servers that can support servlets include: Apache, Netscape's FastTrack and Enterprise Servers, Microsoft's IIS, O'Reilly's WebSite, and JavaSoft's Java Web Server.The beauty of servlets is that they execute within the Web server's process space and they persist between invocations. This gives servlets tremendous performance benefits over CGI programs. Yet because they're written in Java, servlets are far less likely to crash a Web server than a C-based NSAPI or ISAPI extension. Servlets have full access to the various Java APIs and to third-party component classes, making them ideal for use in communicating with applets, databases, and RMI servers. Plus, servlets are portable between operating systems and between servers -- with servlets you can \"write once, serve everywhere.\"<i>Java Servlet Programming</i> covers everything you need to know to write effective servlets and includes numerous examples that you can use as the basis for your own servlets. The book explains the servlet life cycle, showing how you can use servlets to maintain state information effortlessly.  It also describes how to serve dynamic Web content, including both HTML pages and multimedia data. Finally, it explores more advanced topics like integrated session tracking, efficient database connectivity using JDBC, applet-servlet communication, inter-servlet communication, and internationalization.</p>\n\n<p><br>\n\n<i>Amazon.com Review</I><br>\nThis book is a superb introduction to Java servlets and their various communications mechanisms. It includes deep and comprehensive coverage of the Java Servlet API, and also of HTTP, non-HTTP socket communications, Remote Method Invocation (RMI), and more. Throughout, the authors present excellent illustrative code and go to much effort to explain why things work the way they do.<p> The authors (to their credit) do not assume that Java programmers will be familiar with transport protocols or what really goes on when a Web server operates. They begin by showing how to use servlets to generate static pages, then show how to get servlets to generate customized documents in response to requests from the client side. That alone will satisfy many readers' problems. However, the authors go on to tell how to track sessions with servlets, how to carry out secure transactions, how to get servlet threads to communicate with each other, and more. If it can be done with Java servlets, it's discussed in this book. <I>Java Servlet Programming</I> also includes a reference to the Java Servlet API, version 2. <I>--David Wall</I>\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/41KykNoMwML.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Instant Javascript (Instant)",
+    "author": "Nigel McFarlane",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\nJavaScript is one of the most powerful tools in the Web  developer's kit. Used well, it can add hugely to the functionality and  interactivity of Web pages, and is almost universally supported by  browsers. Unlike Dynamic HTML, JavaScript is a language in its own  right but, until recently, there was no fully agreed standard. Instant  Javascript is the first book to deal with this emergent standard:  ECMAScript, it also goes into detail on the various compatibility  problems with existing browser implementations of JavaScript, as well  as looking at stand alone JavaScript\n\n<p><br>\n\n<i>Amazon.com Review</I><br>\nJavaScript is a powerful way to extend HTML content and work with Java applets, but developing with this language can be tricky. With this one-volume reference, you can begin using scripts within Web pages and also learn some of JavaScript's high-end features.<p>Early sections treat JavaScript as just another programming language, detailing data types, operators, and basic keywords. Then the book turns to the nuts and bolts of script development inside Web pages, featuring advanced topics you might not find elsewhere, such as the possibility of running JavaScript scripts on the server.<p>Further chapters explain how to get to browser objects from JavaScript, describing windows, forms, and event handling. There is also a good introduction to manipulating Java applets and Netscape plug-ins (such as Shockwave) with JavaScript. But some of the best chapters teach you how to use browser cookies within Java and offer debugging tips from the author. (JavaScript is legendarily difficult to debug, and the author has a number of potentially helpful suggestions here.)<p>Final sections show JavaScript at work with dynamic HTML. The reference material at the end of <i>Instant JavaScript</i> gives a handy listing of JavaScript fundamentals and HTML tags, making this book useful as both a tutorial and a place where JavaScript developers can get answers.\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/41N8W0S3TTL.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "JavaScript for the World Wide Web: Visual QuickStart Guide (3rd Edition)",
+    "author": "Tom Negrino",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "The Internet for Dummies, Fifth Edition",
+    "author": "John R. Levine",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "PCs for Dummies",
+    "author": "Dan Gookin",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\nThrow out those dense, mind-numbing, jargon-filled computer manuals and grab yourself a copy of <i>PC's For Dummies,Â </i> your all-in-one guide that is packed with all the tried-and-true advice and special tricks that you can expect from all-time best-selling author Dan Gookin. In his familiar, fun, and easy-to-follow fashion, Gookin guides you through the wonderful world of PCs with a minimum of technobabble and a maximum of hardware smarts and software savvy.  <p>Find out what lurks inside a PC and sort your way through chips, cards, cables, and connections The Dummies Wayâ¢. You don't have to be a geek to get the most bang for your computing buck <i>PC's For Dummies,Â </i> is the ideal reference for first-time PC users. From putting your PC together to finding quick answers and sage advice on installing new hardware and software, surfing the Internet and sending e-mail, or troubleshooting your PC problems, you can feel confident-and get your work done-in no time at all.</p>\n\n<p><br>\n\n<i>Amazon.com Review</I><br>\nExplaining the fundamentals of personal computing to those who would  rather read words than look at pictures, <I>PCs for Dummies</I> tells you everything you need to know in order to use an IBM-compatible PC running Windows 98. Dan Gookin's prose is technically astute and fun to read.  <P>This isn't the book for you if you're looking through a computer catalog and wondering what all the jargon means (<I>Buying a Computer for Dummies</I> covers that). Rather, this book will help you when you've gotten the machine into your home and you need to know what to do next. Starting with the process of unpacking the box and plugging in all the cables, this book shows you what to do with your new machine.  <P>After assembly is out of the way, Gookin shows you how to get around in Windows 98 (and Windows 95, which is almost identical). He explains concepts like files, directories, and applications, and frequently explains the exact procedures involved in common tasks like adjusting screen resolution. Once you've heard all about the basics, Gookin goes on to explain modem configuration, printer problems, productivity software, and a fair amount about Internet use. <I>--David Wall</I>\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/51Zo-ahRyqL.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java Spider",
+    "author": "Geoffrey Archer",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\nTitle: Java Spider <>Binding: Paperback <>Author: Geoffrey Archer <>Publisher: ARROW\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://images-eu.ssl-images-amazon.com/images/I/51YGDJ9F4QL.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Microsoft Access 97 Step By Step (Step By Step (Microsoft))",
+    "author": "Catapult",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\n<DIV>With this book and Microsoft Access 97, you'll learn to view, enter, and customize data; find and display just the information you want to see by sorting and filtering; track new information by creating new tables; get and work with data stored outside Microsoft Access; keep your information reliable by protecting and validating data, defining relationships, using Lookup fields, and more; answer questions about and analyze your data using queries; merge data from multiple tables to one form using the Form Wizard; streamline data entry; create and enhance a custom report; and summarize and group information in reports. This book provides complete preparation for the Certified Microsoft Office User Expert exam.</div>\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/71F95J31EKL.gif"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Professional Java Server Programming: with Servlets, JavaServer Pages (JSP), XML, Enterprise JavaBeans (EJB), JNDI, CORBA, Jini and Javaspaces",
+    "author": "Sing Li",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\nAn overview of the new server-side Java platform - Java 2 Enterprise Edition - as it relates to building n-tier web applications.  It covers the building blocks (Servlets, JSP, EJB, JDBC, RMI, JNDI, CORBA) then goes into special design considerations for server side programming, (including resource pooling and component based design) before finally discussing future possibilities opened up by Jini and JavaSpaces technology.    <P>In a world where, increasingly, corporate IT development is Web application development - ASP, PHP, CGI and ISAPI are all viable options.Now, so is the Java 2 Platform Enterprise Edition, and that's good news because server-side Java is portable across Windows, Linux, UNIX and MacOS and compatible with a wide range of Web Servers (IIS, Apache, Netscape Enterprise Server) and Application Servers from Sun, IBM and others.    <P>What does all this mean for you?  Java provides technologies to allow for server side processing,   dynamic page content generation and dynamic presentation.  With these comprehensive, platform independent Java class libraries you can join together the disparate pieces of your business - data, applications and platforms - to form a coherent whole.    <P>Java 2 Enterprise Edition - announced by Sun in June 1999 - makes Java an entire platform, not just another language and this is the first book that seriously covers it.\n\n<p><br>\n\n<i>Amazon.com Review</I><br>\nWrox specializes in books written by programmers, for  programmers. <I>Professional Java Server Programming</I>, a volume on  developing Java-based Web applications, is no different. All the 12  authors are developers and consultants--including some who've been  part of Sun's own Java team.<p> The Web is becoming more and more a  way of delivering applications rather than just static Web pages. Java  is becoming more and more popular as a tool for building Web  applications, thanks to Java servlets and Java Server  Pages. <I>Professional Java Server Programming</I> is a big book full  of code samples and real-world experience. <p> Starting with a  grounding in Web application development and technologies, the book  introduces the various concepts of using Java to deliver Web  content--as well as helping to give you the tools you need to work  around the limitations of Web servers and Web browsers. You'll also  learn how to develop complex database-driven applications--and how to  work faster. Since this is a book on the cutting edge of Java  development, you'll also find sections on using Java with XML  documents and LAP directory servers, as well as Enterprise Java  Beans. There's even a good examination of the next generation of Java  technologies--Jini and JavaSpaces--with a look at how these can be  used in Web applications.<p> This is a superb and extremely practical  book. If you're building Java-based Web server applications, this is a  book you need to have next to your terminal, if only for the 300 pages  of reference material in the appendices! <I>--Simon Bisson,  amazon.co.uk</I>\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/51RXQT602QL.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "ASP in a Nutshell",
+    "author": "A. Keyton Weissinger",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\n<DIV><p>Active Server Pages (ASP) has become a standard for  developing server-side Web applications. Prior to the  development of ASP and other earlier scripting solutions,  such as Sun's Java, Netscape's JavaScript, and Microsoft's  VBScript, all information served to the client's browser  was static -- the Web server did not dynamically generate  any part of the site's content. ASP allows Web developers  to dynamically generate browser-neutral content.</p><p><i>ASP in a Nutshell</i> provides the high-quality  documentation that developers really need to create effective ASP applications. It focuses on how features are  used in a real application and highlights little-known or  undocumented features as well. This book also includes an  overview of the interaction of the latest release of  Internet Information Server (version 4) and ASP, with an  introduction to the IIS object model and the objects it  comprises. The examples given in this section and  throughout the book are illustrated in VBScript.</p><p>This book is written for Web developers with an extensive  knowledge base and years of experience behind them. Like  other books in the In a Nutshell series, this book offers  the facts, including critical background information, in a  no-nonsense manner that users will refer to again and again.  It is a detailed reference that enables even experienced Web  developers to advance their ASP applications to new levels.</p><p>The main components covered in this book are:</p> <ul><li>Active Server Pages Introduction. Brief overview of the ASP application paradigm with examples in VBScript. Also an introduction to Microsoft's Internet Information Server  4.0, the IIS object model, and the objects that it comprises.</li> <li>Object Reference. Each object is discussed in the  following manner: descriptions, properties, collections,  methods, events, accessory files/required DLLs, and remarks,  including real-world uses, tips and tricks, and author's  experience (where applicable). The objects: Application,  Response, Request, Server, Session, ObjectContext, as well  as ASP Directives, Global.ASA, and SS Includes all follow  this paradigm.</li> <li>Component Reference. This section follows the same paradigm detailed in Object Reference. The discussion covers Active Data  Objects, Ad Rotator, Browser capabilities, File Access, Tools,  and more.</li> <li>Appendices. Gives examples in one or two objects and  components using Perl, REXX, and Python in ASP. The information in this book is written in a no-nonsense  manner. Readers will find high-quality documentation and  useful examples throughout. It is a detailed reference  that provides Web developers with the information they  need to develop effective ASP applications.</li></ul></div>\n\n<p><br>\n\n<i>Amazon.com Review</I><br>\nWhile <I>ASP in a Nutshell</I> is not meant to be a full-fledged tutorial of Microsoft Active Server Pages (ASP) technology, it offers a great way for experienced Web coders to ramp up on ASP. After an introduction to ASP, author A. Keyton Weissinger rapidly reviews the progression of content from static form to the Internet, covering CGI, ISAPI, and ASP 2.0. The author clearly explains how ASP works and how server-side components can work with ASP code to further extend server-side functionality.<p> The core of the book is the object reference for ASP coding. Six chapters document all the key programmable ASP objects and each includes an area on Comments/Troubleshooting, Properties Reference, Methods Reference, and Events Reference and offers further explanatory text where necessary. Weissinger uses frequent, brief coding examples to illustrate each important topic. He closes the middle section of this book with details on pre-processing directives and the Global.ASA file.<p> The last part of the book discusses ActiveX Data Objects, NT Server Collaboration Data Objects, and a number of server components (such as the Ad Rotator, Content Rotator, My Info, Page Counter, and Permission Checker) in depth. <I>ASP in a Nutshell</I> provides a concise but detailed breakdown of all key ASP coding topics. <I>--Stephen W. Plain</I>\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/51K3uWTRylL.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "JavaScript for the World Wide Web, Second Edition (Visual QuickStart Guide)",
+    "author": "Tom Negrino",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\nThis book follows up on the enormous success of HTML for the World Wide Web: Visual QuickStart Guide. This revamped edition provides an easy bridge for those who used the HTML Visual QuickStart Guide to conquer HTML and are now ready to tackle JavaScript.While other JavaScript books target experienced programmers, this fully revised second edition is aimed at the large group of less technical Web authors who know HTML but know nothing about programming. With JavaScript, even Web page creators without a programming bone in their body can call up pre-cooked Java animations, add clocks to their Web pages, enable their pages to ask questions and gather information from visitors, and more.\n\n<p><br>\n\n<i>Amazon.com Review</I><br>\nPart of the Visual QuickStart Guide series, <I>JavaScript for the World Wide Web</I> is designed to get you up to speed with JavaScript as quickly as possible. The guide begins with a quick look at JavaScript in general and how to use it to detect browser versions, test for installed plug-ins, and perform other key steps for configuring and using it wisely. The book then moves on to the good stuff--manipulating images and adding dynamic effects to your pages. Next the authors show how to use JavaScript to fine-tune your frames, forms, and browser windows. By the end of the first half of the book, you'll know how to add client-side dynamic data to your pages and manipulate cookies.<p> The book also covers more advanced concepts, such as interacting Java applets and cascading style sheets. A chapter on debugging shows you the most common JavaScript errors and how to detect and fix them. The book also contains examples of real-world JavaScript usage, and a language reference section and companion Web site contain all the code. Throughout <I>JavaScript for the World Wide Web</I>, numbered step-by-step exercises--complemented by screen shots--make learning new techniques a snap. <I>--Stephen W. Plain</I>\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://images-na.ssl-images-amazon.com/images/I/519JGNG29JL.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "The Internet for Dummies (4th Edition)",
+    "author": "John R. Levine",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Pure JSP: Java Server Pages (Pure Series)",
+    "author": "James Goodwill",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\n<HTML>Pure JSP gives a very concise conceptual overview of the JavaServer Pages technology and its related components. Once you have a firm foundation with the JSP technology, related topics such as JavaBeans, JDBC and Servlets are covered at a very high level. The book moves on to explain a large number of JSP techniques, which were determined by studying problems faced by JSP users in the professional world. The final section covers the more technical aspects of the JSP technology. Topics include related API's, server configuration, and charts and diagrams related to developing JSP applications.</HTML>\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/4123PCMEWQL.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "DHTML for the World Wide Web (Visual QuickStart Guide)",
+    "author": "Jason C. Teague",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\nFor any course in Digital Graphics, Web Design, Web Scripting and Development, Multimedia, Page Layout, Office Tools, and Operating Systems.  These task-based, visual reference guides feature step-by-step instructions and plenty of screen shots to guide students and teachers through the most important tasks. Visual QuickStart Guides are the ideal way to get students up and running quickly, and are used for intermediate and advanced students as a quick reference.\n\n<p><br>\n\n<i>Amazon.com Review</I><br>\nIf you're proficient at HTML, yet still fuzzy about Dynamic HTML, you're definitely not alone. Since the two browser heavyweights--Microsoft and Netscape--offer different flavors of DHTML, this promising technical advance for the Web is still in flux. <I>DHTML for the World Wide Web</I> is a no-nonsense look at where DHTML stands and how to use it effectively.<p> This Visual QuickStart guide delivers by offering a comprehensive look at using DHTML--in only 248 pages. The author wastes no time laying out the differences between the two vendors' approaches and establishing the common ground--mainly cascading style sheets (CSS) and JavaScript. With a fast-paced series of screen shots and step-by-step coding, you'll quickly learn the basics of CSS and how to use them effectively to control your typography and page layout. The book illustrates some of the most common uses of CSS--including multiple backgrounds, overlapping font styles, and columns without tables--clearly and quickly.<p> This guide also presents Document Object Models (DOM) to illustrate how to utilize dynamic event handling within your pages. Many popular techniques, such as moving banners, dragging objects, and creating pop-up menus, are included. An even balance of Netscape and Microsoft techniques makes this book a handy reference for any Web developer. <I>--Stephen Plain</I>\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/413DH9FFNGL.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Beginning Java 2",
+    "author": "Ivor Horton",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\nThis book has now been updated to cover JDK 1.3. This  updated book is Beginning Java 2- JDK 1.3 edition, by Ivor Horton  (ISBN- 1861003668).    <P><P> The Java 2 platform, which is the release name for JDK 1.2, was  released in December 1998. Java 2 is an important stage in the  evolution of Java as a serious programming language. There are no  substantial changes to the language - instead JavaSoft have focussed  on extending class library support for common programming tasks.<P>  This includes an improved, device-independent set of graphics  libraries, the Java Foundation Classes (JFC), which includes Swing,  Java2D and improved printing. These answer many of the criticisms of  the original AWT graphics packages, and are both very flexible and  very complete.<P> There's also a new Collections API, a set of classes  to help you look after collections of related objects. There are also  substantial changes in threading, serialization and JDBC 2.0.\n\n<p><br>\n\n<i>Amazon.com Review</I><br>\n<I>Beginning Java 2</I> is one of the two best introductory  Java 2 books available. (The other is Peter van der Linden's <I>Just Java 1.2</I>.)  Assuming nothing more than curiosity and tenacity, this book explains  how to create programs with the Java programming language. And not  just simple, academic programs either--the applets and applications  that Ivor Horton describes in later chapters take advantage of the  latest features of Java 2.<p> After a brief introduction to the  characteristics of Java, <I>Beginning Java 2</I> digs into variables,  data types, operators, control structures, and basic Java syntax--the  stuff you absolutely have to understand in order to get anything  done. Horton then explains streams, files, and threads before getting  into the graphical stuff, where he details how to build attractive,  functional user interfaces with the Swing components (with solid  coverage of the Java 2 event model). Later chapters address Java2D  graphics and database connectivity. The author treats object  orientation as integral to the rest of Java programming, which is  appropriate to the language.<p> Readers get to see how concepts work,  as regular Try It Out sections include illustrative code listings and  the resulting output. The author and publisher deserve kudos for  printing the complete source code of example programs rather than just  key excerpts. These example programs also appear on the publisher's  Web site. <I>--David Wall</I>\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/4190X1R9NGL.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Applied Operating System Concepts",
+    "author": "Abraham Silberschatz",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\nApplied Operating System Concepts is the first book to provide a precise introduction to the principles of operating systems with numerous contemporary code examples, exercises, and programming projects. Written by the leading authors in the field of operating systems, this book capitalizes on the power of Java(TM) technology to allow students to work with executable code for examples of core concepts. Features of Applied Operating System Concepts<br /> * Presents real code examples using the Java programming language<br /> * Uses Java technology to introduce difficult concepts like processes, process synchronization, and semaphores<br /> * Describes the role of threads in modern operating systems and Java, and provides the opportunity to write multithreaded programs<br /> * Introduces up-to-date distributed operating system topics (e.g., Java's Remote Method Invocation, CORBA, RPC) in one concise chapter<br /> * Includes chapter-long case studies of UNIX, LINUX, and Windows NT(TM)<br /> * Provides a Java Primer appendix\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/212YE7TDSDL.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Core Servlets and JavaServer Pages (JSP)",
+    "author": "Marty Hall",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\nServlets and JavaServer Pages dramatically simplify the creation of dynamic Web pages and Web-enabled applications. With Java 2 Enterprise Edition (J2EE), these tools have come of age, earning the support of an unprecedented range of Web and application servers on every major operating system. This book is a comprehensive guide for every experienced developer who wants to master the new versions of these powerful tools. Start by mastering servlet syntax, installation and setup fundamentals and the servlet life cycle. Use cookies and session tracking, optimize browsers, compress pages to slash download time, and decrease overhead with persistent HTTP sessions. Next, master every key JavaServer Pages 1.1 technique you'll need: expressions, declarations, and scriptlets; controlling the format of the servlet that results from the page; incorporating reusable JavaBeans; sharing Beans among pages; dynamically including other files; defining your own JSP tag libraries, and combining servlets and JSP in a single application. Part III offers the industry's most in-depth, practical coverage of using applets and HTTP tunneling as servlet front ends, using JDBC and connection pooling, and HTML forms.\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/41BZ8C1H9RL.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Using MS-DOS 6.2 (Using ... (Que))",
+    "author": "Allen L. Wyatt",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\nGet more power from DOS--and your PC--than ever before! This complete reference is your one-stop guide to everything you need to know about DOS. From the basics to advanced operations, Special Edition Using MS-DOS 6.2 helps you control your PC like a pro. Step-by-step lessons show you how to safely double the size of your hard disk and manage memory better. Easily spot, detect, and repair potential hard drive problems--before they become serious. Master all the vital file-management and system maintenance procedures--while expert tips show you ways to customize DOS with batch files and DOSKey macros. Plus, learn how to optimize your hard disk.<UL><LI>Fast and easy strategies increase your PC performance and prevent data loss</LI><LI>Learn to maximize your system's available memory and hard disk space</LI><LI>Get more out of DOS with expert batch file and macro techniques</LI></UL>\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/414VHK004HL.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Sun Performance and Tuning: Java and the Internet (2nd Edition)",
+    "author": "Adrian Cockcroft",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\n9524J-6 \"As practical as a Swiss Army knife for a power-hungry SysAdmin. For all the Sun gurus, veterans and newbies: This is for you. As a must-have in one's library, it'll be one of your most worn out references in your serious IT career. It is practical and very illustrative in its approach to solving sample problems.\" -Dexter D. Laggui Hailed in its first edition as an indispensable reference for system administrators, Sun Performance and Tuning has been revised and expanded to cover Solaris 2.6, the newest generation of SPARC hardware, and the latest Internet and Java server technologies. Featuring a quick guide to get you started, as well as detailed reference information, this book is indispensable both for developers who need to design for speed and administrators who need to manage system and network performance. Performance guru Adrian Cockcroft brings his unique expertise and structured approach to this complex and rapidly changing topic, providing detailed information on key aspects of performance management and system behavior that is not available anywhere else.Rich Pettit, author of the SE performance toolkit, describes the performance interfaces in Solaris and how to use this freely available toolkit to build your own customized performance-monitoring tools. Key topics covered include:  *Performance Management and Measurement *TCP and Internet Server Tuning *JAVA Network Computer Server Sizing *SPARC System Architectures *Kernel Algorithms and Tuning *How to Build Your Own Performance Tools *Performance Rules and the virtual_adrian SE Tool  To get up to speed quickly on critical performance issues, this is the one book any Sun administrator, integrator or developer needs.\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/5142PQF4H3L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java Enterprise in a Nutshell (In a Nutshell)",
+    "author": "Kris Magnusson",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\n<DIV><p><i>Java Enterprise in a Nutshell</i> is an indispensable quick reference for Java programmers who are writing distributed enterprise applications.  The book provides fast-paced tutorials on the following Java Enterprise APIs:</p> <ul><li>JDBC, a vendor-independent API for accessing relational database systems</li> <li>RMI, a Java-only approach to distributed computing that relies on remote method invocation</li> <li>Java IDL, a CORBA-based, language-independent approach to distributed computing</li> <li>Java servlets, a mechanism for extending a web server that allows Java code to perform tasks traditionally handled by CGI scripts</li> <li>JNDI, a generic Java API for working with networked naming and directory services </li><li>Enterprise JavaBeans, a component model that separates high-level business logic from low-level housekeeping chores like security and transaction management</li> </ul><p>These APIs are the building blocks of the Java 2 Platform, Enterprise  Edition (J2EE), Sun's recently announced new platform for enterprise computing. J2EE is the standard Java 2 platform with a number of extensions for enterprise development.</p><p><i>Java Enterprise in a Nutshell</i> also contains O'Reilly's classic-style, quick-reference material for all of the classes in the various packages that comprise the Enterprise APIs.  This material includes the core Enterprise APIs that are part of Java 1.2, as well as numerous standard extensions.</p><p>This book is a companion to both <i>Java in a Nutshell,</i> 3rd Edition, which covers the key non-graphical, non-enterprise APIs in Java 1.2, and <i>Java Foundation Classes in a Nutshell,</i> which describes the graphics- and GUI-related classes of Java 1.2.</p></div>\n\n<p><br>\n\n<i>Amazon.com Review</I><br>\n<I>Java Enterprise in a Nutshell</I> gives advanced Java developers a one-stop resource for programming with the disparate APIs required for today's enterprise development, including JDBC, RMI, servlets, and EJBs. Beginning with JDBC database programming, the book gives a chapter-by-chapter tour of various enterprise development APIs, including program strategies for each API. For JDBC, the book includes new Java 2 JDBC enhancements like batch and recordsets. <p> Next comes Java's Remote Method Invocation (RMI) classes for calling remote code. Then it's on to using Java IDL and CORBA basics. A chapter on Java servlets will get you started delivering dynamically generated HTML using Java on Web servers, including useful material on cookies and session management. After coverage of the Java Naming and Directory Interface (JNDI) comes a solid exploration of EJBs with material on both session and entity beans. Specifics here include home and remote interfaces, EJB containers, stateless vs. stateful session beans, and entity beans for accessing corporate databases. <p> Overall, this handy and readable guide to the latest in Java APIs can be truly invaluable to the developer bringing Java to the corporate enterprise for the first time. <I>--Richard Dragan</I>\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/51qwvO3%2B8LL.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Developing Java Beans (Java (Addison-Wesley))",
+    "author": "Robert Englander",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java in a Nutshell (Nutshell Handbook)",
+    "author": "David Flanagan",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Windows NT Terminal Server and Citrix MetaFrame",
+    "author": "Ted Harwood",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\n<HTML>Windows NT Terminal Server and Citrix MetaFrame is a technical reference that details all aspects of planning, installing, administering, and troubleshooting Microsoft Terminal Server and Citrix MetaFrame systems. MetaFrame greatly enhances the usability of NT as a thin-client solution, but the heterogeneous networking issues involved in its integration will be a significant source of information pain. Part I begins with an in-depth look at the technology, and how its relevant to the NT administrator. This material is not an overview, but more preparatory material for real-world administration. Part II goes into the real nuts and bolts of thin client administration, covering such relevant issues as installation, configuration, network connection, management, and application distribution. Part III covers the most difficult issues involving thin client administration. This book addresses the real world issues you face, on a case-by-case basis, with tools and advice on solving them.</HTML>\n\n<p><br>\n\n<i>Amazon.com Review</I><br>\nDespite the heavy pro-Windows and anti-Java biases of author Ted Harwood, <I>Windows NT Terminal Server and Citrix MetaFrame</I> proves once again that entries in the New Riders networking book series are not to be missed. Both knowledgeable and pragmatic, Harwood capably guides you through all aspects of Terminal Server and MetaFrame, from market background to installation to application.<p> Divided into three parts, not including the appendices, this book begins with an overview section. Within the overview, the author draws the distinctions and overlaps between thin clients, Windows terminals, and Net PCs and explains the situations in which such solutions make sense. In addition, chapters are devoted to the architectural differences between Terminal Server and Windows NT Server 4 as well as Citrix MetaFrame. These pages are particularly important, as they outline the features inherent to the product--such as automated local device redirection and the ability to allow non-Windows clients to access Terminal Server--and whether or not it is appropriate for your network situation.<p> Part 2 deals exclusively with installation, configuration, and administration. This section showcases some of the book's best features, such as real-word tips and top 10 lists. The last section of the book delves into implementing real-world solutions in a Terminal Server/MetaFrame environment. Topics covered include remote access, incorporating non-Windows clients, load balancing, and application publishing. <I>-Sarah L. Roberts-Witt</I>\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/41MBXEAE13L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Turbo Pascal, version 3.0: Reference manual",
+    "author": "",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\nItem is in good condition with no writings.\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Special Edition Using CGI (2nd Edition)",
+    "author": "Jeffry Dwight",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\nThis complete reference provides professional Web developers and advanced personal users with the latest information on using CGI (Common Gateway Interface) to interact with databases., Updated from the highly successful first edition, this book helps users learn to create and implement scripts and master the details of implementing CGI on various platforms and languages.\n\n<p><br>\n\n<i>Amazon.com Review</I><br>\nThis omnibus book does more than merely tell readers how to solve common CGI programming problems with the least possible hassle (which is no mean feat in itself). <I>Special Edition Using CGI</I> also explains CGI concepts and theory in a way that enables the reader to start figuring out additional solutions independently.<P> The authors begin with some very basic information about what CGI does and how it enhances HTML. Then, they promptly get into the useful stuff--application-oriented programming for CGI. Example programs written in Perl, C, SQL, and various Unix shells appear throughout the book. All the popular CGI applications, including hit counters, site searchers, WAIS interfaces, chat forums, and image maps, get their due attention. <I>Special Edition Using CGI</I> gives server-side includes (SSI) a more detailed treatment than other CGI manuals.<P> The book almost loses its focus when it starts talking about Web multimedia, including online electronic cameras and RealAudio broadcasting. But the extra material is related, albeit distantly, to CGI programming, and there's not too much of it, so you can zip along to several \"tips and techniques\" programming chapters. The section on Perl is useful since it covers the most popular function libraries, and the Visual Basic chapter includes an informative discussion of WinCGI. <I>Special Edition Using CGI</I> wraps up with chapters about debugging and security. There's a CD-ROM that contains all the sample programs and all the popular Perl libraries.<P> <I>Special Edition Using CGI</I> will both help you set up common CGI applications quickly and teach you how to solve more complicated CGI problems on your own. It's a great choice for the beginner with big CGI ambitions.\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/71AY7X56GEL.gif"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java 2 Complete",
+    "author": "Sybex Inc.",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\nJava is Sun Microsystem's object-oriented, platform-independent development language for the Internet. It has rapidly become the de facto standard for WWW application development. Java comes with a myriad of class packages that support graphical user interfaces, networking, sophisticated data structures, and much more. This book gives you everything you need to know to get up and running with JDK 1:2's new est features, including Swing, 2D graphics, and how to get your 1.2 certification.\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/71GWYASRDXL.gif"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Mastering Enterprise JavaBeans and the Java 2 Platform, Enterprise Edition",
+    "author": "Ed Roman",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\n\"This book is a must-have for developers who want to jumpstart their EJB development process. Ed Roman shows the right way to use the J2EE technology with in-depth examples and coding patterns from the real world. We recommend this book as part of our education materials for both in-house staff and customer engagements.\" - William W. Lee, Chief Technology Officer, The Theory Center<br><br>What some are calling the best thing to happen to enterprise programming since Java itself, Enterprise JavaBeans (EJB) radically streamlines the server-side application development process. In this book, you'll learn EJB from a developer's perspective---the author cuts through the marketing hype and shows you both the good and the bad in developing real-world EJB applications. You'll learn everything you need to jumpstart your EJB development, --from understanding the basics of the EJB architecture, to developing transactional, scalable, and secure multi-user enterprise applications. After reading this book, you'll know how to:<br>* Develop with both EJB 1.0 as well as the new EJB 1.1 standard<br>* Master the technologies that complement EJB: Java RMI, RMI-IIOP, JTA, JNDI, CORBA, and XML. E(each of these topics is covered in full)<br>* Develop with both bean types: session beans (stateful and stateless), and entity beans (bean-managed and container-managed persistent)<br>* Design, implement, and deploy a real-world e-commerce system, with a total of nine enterprise beans and seven Java servlets<br>* Avoid pitfalls that could make your code non-portable across EJB servers<br>* Make an educated EJB server purchase decision<br><br>The CD-ROM provides you with:<br>* An immense amount of sample code that you can extend for your own needs<br>* A trial of the BEA WebLogic EJB server for getting started right away<br><br>On the companion Web site you'll find:<br>* Updates to the book<br>* A treasure trove of links to EJB and J2EE resources\n\n<p><br>\n\n<i>Amazon.com Review</I><br>\nCentering on Sun's Enterprise JavaBeans (EJBs) 1.1 specification, <I>Mastering Enterprise JavaBeans</I> surveys the range of technologies and APIs needed to use EJBs successfully. Mixing a high-level perspective on EJBs with plenty of practical programming advice, this title makes a good choice for the IS manager or developer planning to use EJBs in future projects.<p> This book succeeds in two notable ways. First, it presents a fine high-level overview describing EJBs and how they fit into today's multitiered, server-side enterprise architectures. The author makes connections between EJBs and other component architectures (such as Microsoft DNA and CORBA). Illustrated with numerous diagrams, these chapters will be useful to anyone seeking to understand the basics of Sun's powerful component model.<p> This title also serves as a programming primer for serious EJB development. In later sections, the author introduces practical advice for creating both session and entity beans, with plenty of nuts-and-bolts advice, including how to work with actual EJB products. (This book also shows you what to look for when purchasing an EJB application server to deploy your bean components.)<p> Later chapters delve into transaction management and show how to use Java with CORBA and IIOP. The text culminates in an impressive case study using EJBs and Java servlets to power an e-commerce Web site (complete with an online catalog and a shopping cart). This example is a standout, and it's all you will likely need to get started with EJBs in custom projects. Final appendices cover several APIs and standards in more detail, including RMI, JNDI, and XML.<p> In all, this title succeeds at bringing the EJB standard home to the practical  reader. It demystifies EJBs and gives both managers and developers what they need to start solving business problems using this powerful new component model. <I>--Richard Dragan</I><p> <B>Topics covered</B>: Overview of Enterprise JavaBeans (EJBs) component model and Java 2 Enterprise Edition (J2EE), the EJB 1.1 standard, multitiered server-side architectures, J2EE technology primer: RMI, JNDI, JDBC, JTS/JTA, servlets and JSPs, Java IDL, JavaMail, Connectors, XML, EJB Container and Server products and responsibilities, session beans: stateless and stateful beans, EJB security and component life cycle, entity beans and persistence: bean-managed persistent entity beans and container-managed persistent entity beans, flat and nested transactions, ACID properties, two-phase commits, CORBA and RMI-IIOP and EJBs, e-commerce case study using EJBs and servlets.\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/518MQB17K7L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Core Java 1.1 Volume 1: Fundamentals",
+    "author": "Cay S. Horstmann",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\nNow in its third revision, Core Java is still the leading Java book for software developers who want to put Java to work on real problems. Written for experienced programmers with a solid background in languages ranging from Visual Basic or COBOL to C and C++, Core Java 1.1. Volume 1 concentrates on the underlying Java 1.1 language along with the fundamentals of using the cross-platform graphics library supplied with the JDK 1.1.\n\n<p><br>\n\n<i>Amazon.com Review</I><br>\nEndorsed by Sun Microsystems, <I>Core Java 1.1</I> deals with \"fundamental\" Java programming. The first volume deals with \"fundamental\" Java programming. Geared toward the more experienced programmer who has a knowledge of some other programming language, this guide is full of tips and smart enhancements to help you get the most out of basic Java.<p>Early chapters provide the history of Java and the basics of using it for Internet computing. The authors dutifully cover the bare-bones essentials of Java, such as variables, programming statements, and the basic object design in Java and argue that it is a good (though not perfect) object-oriented programming language. They include helpful suggestions for modeling classes using inheritance and interfaces. Some expert material, which makes use of several advanced language features, is also included in the discussion of how to clone arrays. Later the authors show how to use Java's inner classes, including anonymous inner classes. The chapter on graphics programming is also geared toward real-world programmers, showing how printing can be integrated alongside code that displays graphics on the screen.<p>The rest of the book moves toward the fundamentals of Abstract Window Toolkit (AWT) programming, first covering the complexities of event handling in the Java Developer's Kit (JDK) 1.1 event model, then publishing a survey of the basic AWT components. The discussion of the \"peer,\" or native, model and how it can be bypassed easily using \"lightweight\" controls in JDK 1.1 programming is interesting. Concluding chapters describe the basics of processing applets; data structures, such as vectors and hash tables (as well as custom linked lists and queues for the more ambitious programmer); and exception handling.<p>The organization of this text makes a lot of sense for new--and more experienced--programmers who are making the transition to Java. This book covers a lot of ground while delivering a good deal of \"expert mode\" programming knowledge along the way. Even those who already know a little Java will benefit from this information.  \n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/71SNG2FD90L.gif"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java by Example (Java Series (Mountain View, Calif.).)",
+    "author": "Jerry R. Jackson",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\nThis book presents Java by guiding readers through proven examples written by experts. This pragmatic, illustrative approach carries through the entire text, developing Java applets and applications, from simple to complex. By reviewing real, working code, readers learn the right way to develop Java code that is elegant, readable, and easy to maintain. The book's carefully annotated code is designed to help programmers start developing with Java immediately.\n\n<p><br>\n\n<i>Amazon.com Review</I><br>\nWritten for intermediate and experienced programmers,<B> Java By  Example</B> presents the Java language through examples, developing Java  applets and applications from simple to complex. The book describes  the Java language vis-a-vis other popular programming languages with  particular emphasis on how Java relates to C and C++. The CD-ROM  includes all source code and applets discussed in the book and the  Java Developer's Kit. \n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/71ZSHKRFMZL.gif"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Head First Design Patterns",
+    "author": "Elisabeth Freeman",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\n<div><p><b>Whatâs so special about design patterns?</b></p><p>At any given moment, someone struggles with the same software design problems you have. And, chances are, someone else has already solved your problem. This edition of Head First Design Patternsânow updated for Java 8âshows you the tried-and-true, road-tested patterns used by developers to create functional, elegant, reusable, and flexible software. By the time you finish this book, youâll be able to take advantage of the best design practices and experiences of those who have fought the beast of software design and triumphed.</p><p><b>Whatâs so special about this book?</b></p><p>We think your time is too valuable to spend struggling with new concepts. Using the latest research in cognitive science and learning theory to craft a multi-sensory learning experience, Head First Design Patterns uses a visually rich format designed for the way your brain works, not a text-heavy approach that puts you to sleep.</p></div>\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/51u3S8BHSpL.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Cisco UnAuthorized",
+    "author": "Jeffrey S. Young",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\nOver the course of one treacherous year, Cisco Systems, the company that wired the Information Age, has seen its stock price crumble and its market domination challenged. For the first time ever, there are whispers about this Silicon Valley titan. Does Cisco still have what it takes to continue its mastery over the New Economy, a world in which lightening-fast shifts in technology and market demand can destroy, in the blink of an eye, billion-dollar corporations and garage start-ups alike?<br><br><br><br><br>\"A great book about a great company by a great writer.\"<br>Ã¢â¬â Guy Kawasaki CEO, Garage.com and author of Rules for Revolutionaries<br><br><br><br>In this engrossing book, bestselling author and high-tech chronicler Jeffrey S. Young goes deep inside the new information technology that is radically changing the face of business and, at the same time, profoundly touching each of our lives. Standing alone in the eye of this electronic maelstrom is Cisco Systems, a company whose personality and drive mirror that of its tenacious CEO, John Chambers.<br><br>Through guts and guile, Chambers has built an extraordinarily aggressive company that owns the infrastructure through which more than 75 percent of the world's data travels. This remarkable achievement, however, is now under withering assault from all sides. Today, Cisco's domination of the $100 billion net-working market is threatened not only by such multinational corporations as Nortel and Lucent but also by a new breed of start-ups that are sprouting like weeds. Young, savvy com-panies such as Juniper, Redback, ONI, Sycamore, and others are moving with speed and agility to beat the giants at their own game. As John Chambers has said on many occasions, the guys he fears most are the ones who can start out with a blank sheet of paper. Today, there are lots of guys with blank sheets of paper.<br><br>s is a story of packets and photons, routers, fiber optics, and waves in an era of limitless wealth and opportunity. Yet it is also a human tale, with a handful of business warriors trying to take control of the future in the midst of technology wars and brutal competition. The stakes are nothing less than control of the future of information.<br><br>luding exclusive interviews with key high-tech executives, Cisco Unauthorized is an unforgettable portrait of a remarkable company, a brilliant CEO, and a defining moment in the Information Age.\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/51SC8TZSBVL.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Sams Teach Yourself Java 2 in 21 Days (Sams Teach Yourself S.)",
+    "author": "Laura Lemay",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Amazon Review</I><br>\nNewly revised for some of the latest Sun JDK 1.3 standards, the second edition of <I>Sams Teach Yourself Java 2 in 21 Days</I> provides a refreshingly compact and useful tour of Java suitable for anyone who wants to master this powerful programming language quickly.<p> Currently, Java has some 2,000 classes and over 24,000 methods and properties. Instead of covering a laundry-list of features, this book concentrates on what's really important, keeping your attention with short, clever examples, many of which use names and examples drawn from pop culture or historical trivia.<p> The first week of lessons in the book comprises an easily digestible tutorial on basic Java, with review questions and exercises that will help you start using it on your own. Next comes a tour of the various options for building user interfaces in today's Java, including Swing applets and applications. Besides basic component programming, you'll learn graphics using the new Java 2D API. (The older Abstract Windowing Toolkit, AWT, isn't covered.) Material on threading, animation and sound helps you explore Java's multimedia capabilities.<p> The third and final week of lessons addresses advanced Java APIs and features which extend the reach of Java on the enterprise. After delving into more advanced class design, the book looks at topics like I/O streams in Java and object serialisation (which allows objects to work with streams). Chapters on security and basic networking (illustrated using a server that generates trivia questions for clients) will let you work with Java on the Internet. The book closes with a chapter on database programming with JDBC. (There's also coverage of the older JDK 1.0 collection classes, a little surprising given the focus on newer Java 2 standards elsewhere.) <p> In all, <I>Sams Teach Yourself Java 2 in 21 Days</I> provides an efficiently packaged tutorial for learning Java, one that will be appreciated by any beginning Java programmer. The sheer number of classes and APIs in today's Java can be overwhelming. The intelligent and concise series of lessons in this book will help jump-start your knowledge. <I>--Richard Dragan</I> \n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/51TATEXXEPL.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "JavaServer Pages",
+    "author": "Hans Bergsten",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\n<p>JavaServer Pages (JSP) technology provides an easy way to create dynamic web pages. JSP uses a component-based approach that allows web developers to easily combine static HTML for look-and-feel with Java components for dynamic features. The simplicity of this component-based model, combined with the cross-platform power of Java, allows a web development environment with enormous potential.<i>JavaServer Pages</i> shows how to develop Java-based web applications without having to be a hardcore programmer. The author provides an overview of JSP concepts and discusses how JSP fits into the larger picture of web applications. Web page authors will benefit from the chapters on generating dynamic content, handling session information, accessing databases, authenticating users, and personalizing content. In the programming-oriented chapters, Java programmers learn how to create Java components and custom JSP tags for web authors to use in JSP pages.</p>\n\n<p><br>\n\n<i>Amazon.com Review</I><br>\nThis comprehensive guide to JavaServer Pages (JSPs), a fast-growing technology for Web developers, teaches you how to embed server-side Java into Web pages, while also offering full access to other features such as JavaBeans, Enterprise JavaBeans (EJB), and JDBC database access. The reference JSP implementation is the freely available Apache Tomcat server, so it won't cost a thing to get started. All the example code in the book has been tested on Tomcat, in fact.<p>  The first part of <I>JavaServer Pages</I> covers the essentials of HTTP and Java Servlets, on which JSPs are based. There is also a guide to installing Tomcat on your Windows or Unix system. The next part, aimed at Web page designers as well as programmers, covers JSP application development. There is material on scripting elements, error handling, managing user sessions, database access, security, and using XML and XSL with JSP. Part 3, for programmers, broadens the scope to include EJB and other Java components, developing custom tags, and achieving highly scalable applications using database connection pools. A comprehensive reference section finishes things off.<p>  The author has been an active participant in the official servlet and JSP working groups, and this book is both well informed and well organized. It provides experts with invaluable tips and insights, while newcomers will find all they need to assess and implement their first JSP applications. <I>--Tim Anderson, Amazon.co.uk</I>\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://images-na.ssl-images-amazon.com/images/I/51Zwp2kNgiL.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Fortran 77 for Engineers and Scientists",
+    "author": "Larry Nyhoff",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": ""
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "JavaScript Definitive Guide",
+    "author": "David Flanagan",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\n<p>JavaScript is a powerful scripting language that can be embedded directly in HTML. It allows you to create dynamic, interactive Web-based applications that run completely within a Web browser; you don't have to do any server-side programming, like writing CGI scripts.JavaScript is a simpler language than Java. It can be embedded directly in Web pages without compilation, so it is more flexible and easier to use for simple tasks like animation. However, although you can write reasonably robust and complete Web applications using JavaScript alone, JavaScript is not a substitute for Java. In fact, JavaScript is a good client-side complement to Java; using the two together allows you to create more complex applications than are possible with JavaScript alone.<i>JavaScript: The Definitive Guide</i> provides a thorough description of the core JavaScript language and its client-side framework, complete with sophisticated examples that show you how to handle common tasks, like validating form data and working with cookies. The book also contains a definitive, in-depth reference section that covers every core and client-side JavaScript function, object, method, property, constructor, and event handler. This book is an indispensable reference for all JavaScript programmers, regardless of experience level.This third edition of <i>JavaScript: The Definitive Guide</i> describes the latest version of the language, JavaScript 1.2, as supported by Netscape Navigator 4 and Internet Explorer 4. The book also covers JavaScript 1.1, which is the first industry-standard version known as ECMAScript. The new features of JavaScript 1.2, which are likely to be embodied in a later ECMAScript standard release, are clearly indicated, so that you can use them as appropriate in your scripts.</p>\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/51-y4y9IKHL.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Designing With JavaScript : Creating Dynamic Web Pages (Web Review Studio Series)",
+    "author": "Nick Heinle",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\n<p>This isn't a hard-core programming book; it isn't geared toward someone who has a computer science degree from MIT and five years experience of programming in C++. This is the JavaScript book for the rest of us. Written by the author of the \"JavaScript Tip of the Week\" Web site, this book focuses on the most useful and  applicable scripts for making truly interactive, engaging Web sites  (and it doesn't proclaim to be the definitive all-knowing JavaScript guide).You'll not only have quick access to the scripts you need, you'll  finally understand why the scripts work, how to alter the scripts to  get the effects you want, and, ultimately, how to write your own  groundbreaking scripts from scratch. Through his popular Web site,  Nick Heinle has been showing Web designers and other nonprogrammers how  to create the scripts they need. In fact, he wrote much of the JavaScript  used on the Web today. This book is the culmination of his work. His  explanations are clear, detailed, and accessible; everything -- every  script, every concept, every line -- is explained so that \"the rest of us\"  will understand.<i>Designing with JavaScript</i> covers many of the powerful capabilities that  JavaScript is given with Dynamic HTML, in a few chapters covering important aspects of implementing Microsoft Internet Explorer 4.0 as  well as Netscape Navgigator 4.0. You'll learn how to create pages on  the fly, how to identify users' browsers, how to create \"rollover\" effects  with sound, graphics, and animation, and more. It also features a CD-ROM  and Web site that provide fast access to some of the author's most useful functions and scripts, making it easy to find the code you need and to build your own custom scripts.</p>\n\n<p><br>\n\n<i>Amazon.com Review</I><br>\n<i>Designing with JavaScript</i> is an excellent learn-by-example tutorial that helps you create dynamic content for your Web site. Each chapter tackles a single topic with a relaxed and conversational tone. The thoroughly explained examples in each chapter are blocked off in green for quick reference and included on the accompanying CD-ROM. Whiz-kid author Nick Heinle--author of the JavaScript Tip of the Week Web site and closet high school student--covers a lot of ground, from dynamic frames, forms, and cookies to the latest in both 4.0 browsers' versions of Dynamic HTML. One excellent chapter demonstrates how to easily include multiple versions of your scripts to work with versions of Netscape Navigator or Internet Explorer, depending on which browser views the page.<p> This is one the best titles available for relative newcomers or Web designers who want to get waist-deep in scripting as quickly as possible. However, Heinle's examples will also be useful to anyone with an interest in JavaScript.\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://images-na.ssl-images-amazon.com/images/I/61Ol8dSvHWL.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Writing Apache Modules with Perl and C: The Apache API and mod_perl",
+    "author": "Doug MacEachern",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\n<DIV><p>Apache is the most popular web server on the Internet because it is free, reliable, and extensible. The  availability of the source code and the modular design  of Apache makes it possible to extend web server  functionality through the Apache API.<br></p><p>For the most part, however, the Apache API has only  been available to C programmers, and requires rebuilding the Apache server from source. mod_perl, the popular  Apache module used primarily for enhanced CGI performance,  changed all that by making the Apache API available to Perl programmers. With mod_perl, it becomes simple  to develop Apache modules with Perl and install them  without having to rebuild the web server.</p><p><i>Writing Apache Modules with Perl and C</i> shows how to extend  web server capabilities regardless of whether  the programming language is Perl or C. The  book explains the design of Apache, mod_perl, and the  Apache API. It then demonstrates how to use them to  perform for tasks like the following:</p> <ul><li>Rewriting CGI scripts as Apache modules to  vastly improve performance</li> <li>Server-side filtering of HTML documents, to embed special markup or code (much like SSI)</li> <li>Enhancing server log functionality</li> <li>Converting file formats on the fly</li> <li>Implementing dynamic navigation bars</li> <li>Incorporating database access into CGI scripts</li> <li>Customizing access control and authorization to  block robots or to use an external database for passwords</li> </ul><p>The authors are Lincoln Stein and Doug MacEachern. Lincoln is the successful author of <i>How to Set Up and Maintain a World Wide web Site</i> and the developer of the widely used Perl CGI.pm  module. Doug is a consultant and the creator of the innovative  mod_perl Apache module.</p></div>\n\n<p><br>\n\n<i>Amazon.com Review</I><br>\n<I>Writing Apache Modules with Perl and C</I> will allow you to enhance your Apache HTTP server in just about any way you'd like. Overall, it is an excellent book, and it has a lot of good information and terrific examples on everything from \"Content Handlers\" to customizing the Apache server configuration process.<p> It's quickly apparent that Lincoln Stein and Doug MacEachern spent valuable time writing this book considering the breadth of their subject and the depth they devote to it. The only downside to the book is that it's kind of hard to explain all of the API functionality without assuming a minimum level of competence from the audience. For that reason, this book might be a bit intimidating to novice programmers, but it really rewards you if you put time into it and tinker with things.<p> The book also works well as a source of ideas and inspiration for when you have to write your own server modules, and I'd recommend it if you want to customize your Apache server or speed up your Perl CGI programs. <I>--Doug Beaver</I>\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/511VLxn4P3L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java Examples in a Nutshell (In a Nutshell)",
+    "author": "David Flanagan",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\n<div><p><i>Java Examples in a Nutshell</i> is full of real-world Java programming  examples. The second edition of this bestselling book covers Java 1.3 and  contains 164 complete, practical programs: over 17,900 lines of densely  commented, professionally written Java code covering 20 distinct Java APIs,  including Servlets, JavaServer Pages, XML, Swing, and Java 2D. David Flanagan,  the author of <i>Java in a Nutshell,</i> has created an entire book of  programs that readers can learn from and modify for their own use. </p> <p>This book is a companion volume to <i>Java in a Nutshell,</i> <i>Java  Foundation Classes in a Nutshell,</i> and <i>Java Enterprise in a  Nutshell</i>. While those books are quick references at heart, they each  include accelerated tutorials on various Java topics. <i>Java Examples in a  Nutshell</i> picks up where those books leave off, serving up a suite of  example programs for novice Java programmers and experts alike. This book  doesn't hold readers' hands or supply detailed explanations of Java syntax or  method calls; it simply delivers well-commented working examples for exploring  the wide range of what's possible with Java. Each chapter concludes with  programming exercises that suggest avenues for building further knowledge.</p> <p><i>Java Examples in a Nutshell</i> contains the following:</p> <ul><li>Examples that demonstrate basic Java functionality and the essential  Java API's, including I/O, threads, networking, security, reflection,  serialization, and security.</li> <li>Programs that use the graphical user interface and graphics features  of Java, highlighting the Swing, Java 2D, printing, data transfer,  JavaBeans, and applet APIs.</li> <li>Examples that illustrate key enterprise APIs in Java, including  remote method invocation (RMI), database connectivity (JDBC), servlets,  JavaServer Pages (JSP), and XML.</li> <li>An example index that lets users look up a programming concept or  Java class and find any examples in the book that demonstrate that  concept or use that class.</li></ul></div>\n\n<p><br>\n\n<i>Amazon.com Review</I><br>\nAimed at those who have some previous Java experience, <I>Java Examples  in a Nutshell, 2nd Edition </I> provides an outstanding collection of code  samples that are designed to help you improve your programming skills--by  studying code that works. With over 150 expert examples that illustrate a wide  range of Java APIs, this volume definitely can bring your knowledge of Java to  the next level.<p> Many programming titles rely on code excerpts to illustrate key programming  concepts. This book reverses that approach by emphasizing the code itself,  enhancing it with introductory material and explanations. While some short  examples illustrate simple algorithms (such as random-number generation and  sorting), many of the examples are substantial: for example, how to create a  multithreaded Web server, a proxy server, and even a simple Web browser (by  using built-in Swing classes for a user interface). These longer examples occupy  several pages; generally, they're well-commented models of coding clarity.<p> This second edition adds extensive support for the Java 2 JDK 1.3 standard.  Later sections provide sample code on most recent developments in enterprise  APIs, including Swing, JDBC, and XML. This text concludes with one of the best  short tutorials that you're likely to find anywhere on JSP and servlet  programming, including excellent detail on deploying JSP-based Web  applications.<p> Although it's designed to be a companion title to  <I>Java in a Nutshell</I> and  other O'Reilly Java offerings, there's little doubt that this book stands on its  own quite well. And, given the short exercises at the end of every chapter that  help you expand your command of Java features and APIs, this is a worthy and  up-to-date resource for all levels of Java programmers. <I>--Richard  Dragan</I><p> <B>Topics covered:</B><table cellspacing=\"7\"  border=\"0\"><ul><ol><tr><td><li>Library of Java 2 code samples <li>A \"Hello  world\" example <li>Mathematical calculations and algorithms (the Fibonacci  Series, factorials, prime-number generation, sorting, exception handling)  <li>Basic class design (classes for graphics, random numbers, and a linked list)  <li>Java file I/O (including opening, reading, and writing files) <li>Filtering  file streams <li>Java threads and multitasking techniques <li>Java networking  classes (URLs and connections, sending e-mail) <li>Sample code for custom Web  servers and proxy servers <li>Security and cryptography <li>Basic  internationalization <li>The Java reflection APIs <td><br><td><li>Object  serialization <li>Swing user-interface design <li>Code for a simple Web browser,  based on Swing <li>Tutorial for AWT and Java 2-D graphics <li>Printing  techniques <li>Cutting and pasting data in Java <li>JavaBeans (custom  components, bean property editors, customizers) <li>Applet basics (including JDK  1.0 event handling and JAR files) <li>Remote Method Invocation (RMI) <li>Sample  code for a Multiuser Domain (MUD) server <li>Database and JDBC programming  <li>Servlet and JavaServer Pages (JSPs) tutorial <li>XML and Java (including  JAXP, SAX 1 and 2, and JDOM)</ol></ul></table>\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/51SrBu4QeOL.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java and XML (O'Reilly Java Tools)",
+    "author": "Brett McLaughlin",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\n<div><p>XML has been the biggest buzzword on the Internet community for the past year. But how do you cut through all the hype and actually put it to work? Java  revolutionized the programming world by providing a platform-independent  programming language. XML takes the revolution a step further with  a platform-independent language for interchanging data. Java and XML  share many features that are ideal for building web-based enterprise  applications, such as platform-independence, extensibility, reusability, and  global language (Unicode) support, and both are based on industry standards.  Together Java and XML allow enterprises to simplify and lower costs  of information sharing and data exchange. <i>Java and XML</i> shows how to  put the two together, building real-world applications in which both the  code and the data are truly portable.This book covers:</p><ul><li>The basics of XML</li><li>Using standard Java APIs to parse XML</li><li>Designing new document types using DTDs and Schemas</li><li>Writing programs that generate XML data</li><li>Transforming XML into different forms using XSL transformations (XSL/T)</li><li>XML-RPC</li><li>Using a web publishing framework like Apache-Cocoon</li></ul>This is the first book to cover the most recent versions of the DOM  specification (DOM 2), the SAX API (SAX 2) and Sun's Java API for XML.</div>\n\n<p><br>\n\n<i>Amazon.com Review</I><br>\nTwo hot topics come together in this developer's guide from Brett  McLaughlin, <I>Java and XML</I>. Both Java and XML are cross-platform  technologies; by using Java for code and XML for transporting data, you can  build truly portable applications. This title is aimed at intermediate to  advanced programmers; while XML topics are explained more or less from scratch,  readers will need prior knowledge of Java.<p>  The book begins with an overview of XML and its uses, and goes on to explain how  to parse XML by using the Simple API for XML (SAX 2). Next, there is coverage of  how XML is validated by using Document Type Definitions (DTDs) and XML Schema,  and transformed by using eXtensible Stylesheet Language (XSL). Brief coverage of  Sun's Java API for XML is followed by a detailed look at the Java Document  Object Model (JDOM), a new API devised by the author in association with  O'Reilly, the publisher. <p>  The last part of the book is more advanced, and covers applications of XML and  Java. There are chapters on Web-publishing frameworks, XML Remote Procedure  Calls (RPCs), using XML to read and write configuration data, and generating XML  with Java. There is also a short business-to-business example. Appendices  provide an API reference to the various specifications discussed in the book.<p>  The strengths of <I>Java and XML</I> include the author's deep knowledge of his  subject, and a writing style that is both clear and enthusiastic. If you happen  to know a lot about Java and not much about XML, this is the ideal title.  Readers who already have a good grasp of XML basics might be frustrated by the  amount of introductory material. <I>--Tim Anderson</I>\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/41n7ISnJhsL.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Spring: A Developer's Notebook",
+    "author": "Bruce Tate",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\n<div><p>Since development first began on Spring in 2003, there's been a constant buzz about it in Java development publications and corporate IT departments.  The reason is clear: Spring is a lightweight Java framework in a world of complex heavyweight architectures that take forever to implement. Spring is like a breath of fresh air to overworked developers.In Spring, you can make an object secure, remote, or transactional, with a couple of lines of configuration instead of embedded code. The resulting application is simple and clean. In Spring, you can work less and go home early, because you can strip away a whole lot of the redundant code that you tend to see in most J2EE applications. You won't be nearly as burdened with meaningless detail. In Spring, you can change your mind without the consequences bleeding through your entire application. You'll adapt much more quickly than you ever could before.<i>Spring: A Developer's Notebook</i> offers a quick dive into the new Spring framework, designed to let you get hands-on as quickly as you like. If you don't want to bother with a lot of theory, this book is definitely for you.  You'll work through one example after another. Along the way, you'll discover the energy and promise of the Spring framework.This practical guide features ten code-intensive labs that'll rapidly get you up to speed.  You'll learn how to do the following, and more:</p><ul><li>install the Spring Framework</li><li>set up the development environment</li><li>use Spring with other open source Java tools such as Tomcat, Struts, and Hibernate</li><li>master AOP and transactions</li><li>utilize ORM solutions</li></ul>As with all titles in the Developer's Notebook series, this no-nonsense book skips all the boring prose and cuts right to the chase.  It's an approach that forces you to get your hands dirty by working through one instructional example after another-examples that speak to you instead of at you.</div>\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/41YKY6rCD0L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Designing Enterprise Applications with the Java(TM) 2 Platform (Enterprise Edition)",
+    "author": "Nicholas Kassem",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\nIn this book, a team of Sun engineers presents the first start-to-finish guide to enterprise application development with the Java 2 Platform, Enterprise Edition (J2EE). This book covers every component of J2EE, providing \"best practices\" principles for building secure, high-performance multi-tier enterprise applications, plus a detailed case study showing exactly how to get the job done. The authors begin with an insider's overview of the J2EE platform, and how it can be used. They review each key component, platform, service, and communication technology provided by J2EE; then walk through enterprise development one tier at a time, showing how to leverage J2EE most effectively. The book covers each area: the client tier, Web tier, Enterprise JavaBeans tier, and Enterprise Information System tier, as well as practical techniques for packaging and deployment; extensive coverage of transactions, plus details on the J2EE security model. With the launch of the J2EE Platform, this book is the ideal one-stop resource for IT managers, web providers, EJB developers, database administrators, system administrators and system integrators.\n\n<p><br>\n\n<i>Amazon.com Review</I><br>\nWith its excellent cross-platform capabilities and rich enterprise-level  APIs, today's Java 2, Enterprise Edition (J2EE), stands ready to build the next  generation of multitiered Web applications--but architecting these solutions can  be a daunting task. Written by the experts at Sun, <I>Designing Enterprise  Applications with the Java 2 Platform, Enterprise Edition</I> provides the  official \"blueprint\" for building scalable, server-centric applications by using  Java. This title is perfect for any manager or developer seeking to get a handle  on the \"right\" way to design distributed applications by using Java.<p>  This text bundles together separate chapters written by various members of the  Sun \"Enterprise Team.\" The prominent methodology here is the consistent use of  the model-view-controller (MVC) paradigm for designing the server-side tiers. In  MVC, data (model) is kept separate from its presentation (view), and the two  are coordinated through a controller class. The book uses quite a few useful  architectural diagrams, which show how to combine Enterprise Java Beans (EJBs),  servlets, and JavaServer Pages (JSPs) effectively. Managers or project leaders  who might not code with Java everyday might learn from these diagrams how Java  components work together within Web applications. Also, the authors explain the  Sun \"vision\" for Java for a variety of e-commerce scenarios (including several  business-to-business systems).<p>  Separate chapters dig into the client, Web, EJB, and \"enterprise information  systems\" tiers, and where to use various J2EE APIs for the best scalability and  maintainability. Later sections look at deploying EJBs, as well as options for  transaction management and security for the enterprise. The authors close with a  complete Web application created with EJBs and servlets for an online pet store --a useful illustration of J2EE at work. All in all, this text is a valuable  tour of Sun's official \"vision\" for enterprise-level computing with Java. It  demystifies how various Java APIs can work together to create robust and  scalable Web applications. Any IS manager or developer designing with J2EE will  want a look at this book to learn how to take full advantage of the latest  features for Java-based Web applications. <I>--Richard Dragan</I><p>  <B>Topics covered:</B> Overview of Java 2, Enterprise Edition (J2EE), for  enterprise application development, application scenarios (including stand-alone  clients, Web-based and business-to-business scenarios), J2EE components for  client-side and server-side tiers (including applets and Enterprise Java Beans  (EJBs)), platform roles for companies using Java, overview of Java APIs and  services: JNDI and naming services, deployment, transaction, and security  services, Java communication support: networking support, Remote Method  Invocation (RMI), OMG CORBA support, Java Message Service (JMS), and JavaMail;  building Web and EJB clients, the model-view-controller paradigm explained,  combining servlets, JSPs, and EJBs on the middle tier, using entity and session  EJBs, stateful and stateless session beans, sample applications for the  enterprise information systems tier (applications for an e-store, human  resources, and distributed purchasing), packaging and deployment, transaction  management (JTA, JTS, and EJB transactions), Java security overview, and a case  study and sample code for an e-commerce pet store.\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/5116DFVPEZL.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Who's Afraid of Java? (Who's Afraid of)",
+    "author": "Steve Heller",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\nThis book is a gentle introduction to the Java programming language, assuming no programming background, by introducing readers to object-oriented programming concepts. The book teaches the elements of program design, the Java language, and how to create Java Applets. While the emphasis is on writing basic application code that is  useful on the Internet, the book also tackles some difficult Java programming issues such as algorithmic thinking, built-in classes, and control expressions. Like the well-received <i>Who's Afraid of C++?,</i> the unique feature of the book is the e-mail interaction between an instructor and a novice who learns Java by reading the book and asking questions along the way. The 3.5\" disk features a fully functional Java compiler.                                      <br><br>* Emphasis is on programming basics for all types of Java applications<br>* Assumes no Java programming background<br>* Tackles the hard issues of Java programming in an easily understood manner<br>* CD-ROM features Visual J++ Test Release 1.1 and Microsoft's Internet Explorer 3.02\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/41Y595NCN4L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Professional Java Server Programming J2EE Edition",
+    "author": "Subrahmanyam Allamaraju",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\nRather than a simple update of the existing Professional Java Server Programming book, the J2EE edition represents an evolution of the content to reflect the changing state of server-side Java development. Whereas the first edition can be seen as an introduction to Java on the server, the new edition is a more tightly integrated vision of how to combine the Java technologies to develop n-tier applications in Java based primarily around J2EE. Since the release of the first edition in the fall of '99, probably the single most significant change in the Java server-side landscape has been the release of the Java 2 Platform, Enterprise Edition (J2EE). Although we covered many of the elements of J2EE in the first edition of the book, many things have changed.<P> <P>J2EE represents a serious attempt by Sun to make Java not just a viable language, but more importantly a viable platform for enterprise development. This book is about how to use Java for enterprise development, using the J2EE runtime architecture. <P>   <P>Wide range of technologies including: J2EE, RMI, JDBC, JNDI, LDAP, XML, XSLT, Servlets, JSP, EJB, JMS, JavaMail, CORBA, Performance, Scalability, Unit Testing, and Debugging <P>Benefits and limits of the typical real-world vendor implementations of the J2EE specification <P>The resulting practical aspects of real-word design using the J2EE technologies\n\n<p><br>\n\n<i>Amazon.com Review</I><br>\nSun's Java 2 Platform, Enterprise Edition (J2EE), provides all of the  APIs that are needed to build world-class enterprise applications. Written by  over a dozen experts, this new edition of <I>Professional Java Server  Programming</I> provides a truly massive and authoritative guide to the latest  standards and APIs that are available in J2EE. This title is a must-have for anyone who's  serious about enterprise development in Java.<p> Weighing in at over 1,400 pages, <I>Professional Java Server Programming</I>  provides a wide-reaching resource of all of the APIs that are required for J2EE  development that centers on servlets and JSPs for creating UIs and Enterprise  JavaBeans (EJBs), XML, and JDBC for getting to data on the server. Besides being  a practical guide to how to combine these standards (with plenty of useful  examples of these APIs in action), it also delivers a healthy dose of the design  philosophy that's recommended by Sun for building scalable and robust enterprise  Web applications.<p> Throughout, this text does a good job of merging theory with practice. Almost  every chapter has a useful working example that shows how APIs work, with sample  code for such Web applications as an e-commerce shopping cart, tech support  pages, and a front end for a manufacturing database. The core of this volume is  its treatment of servlets and JSPs for building Web-based front ends in Java.  This new edition also highlights EJBs in excellent detail, with a thorough tour  of designing, programming, and deploying EJBs effectively. (There's also notable  coverage of the emerging EJB 2.0 standard, which adds several important  features, like a query language for more powerful database access.)<p> The practical focus here is reflected also in chapters that are devoted to  debugging, testing, and deploying J2EE applications--critical issues for any  aspiring enterprise developer. While no single book can make you an expert, this  one can get you started with a superb tour of the APIs and technologies that  you'll need to tackle large-scale development in Java. <I>--Richard  Dragan</I><p> <B>Topics covered:</B> <ul><li>Introduction to enterprise computing with the  Java 2 Enterprise Edition (J2EE) platform (technologies, APIs, architectures;  development roles) <li>Introduction to RMI (including security, parameter  passing, and distributed garbage collection) <li>JDBC tutorial (including  prepared statements, updateable result sets, batch updates, connection pooling,  and distributed transactions) <li>JNDI and LDAP <li>XML basics (including XML  parsers, XSLT, and CSS) <li>Servlet tutorial (servlet APIs, the servlet life  cycle, requests and responses, and maintaining session information) <li>Shopping  cart servlet example <li>JavaServer Pages (JSPs) tutorial (directives, scripting  elements, custom tags, and tag libraries) <li>JSP coding standards <li>Using JSP  and XML together <li>JavaMail <li>Enterprise JavaBeans (EJBs) tutorial <li>EJB  containers <li>Design guidelines for EJBs <li>Session and entity beans  <li>Container vs. bean-managed persistence <li>New EJB 2.0 features (including  the EJB 2 0 Query Language) <li>Sun's Model-View-Controller architecture for  designing enterprise-level applications <li>Performance and scalability hints  <li>Debugging and testing techniques <li>The Java Message Service (JMS) and  message queuing <li>Integrating J2EE with CORBA <li>Deploying J2EE  applications</ul>\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/5153K4CWNJL.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "JavaScript: Your visual blueprint for building dynamic Web pages",
+    "author": "Kelly L.  Murdock",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\nWelcome to the only guidebook series that takes a visual approach to professional-level computer topics. Inside you'll discover step-by-step screen shots that demonstrate over 100 key JavaScript tasks, including:<ul><li>Assigning values to variables<li>Declaring a function<li>Detecting mouse rollovers<li>Creating object instances<li>Resizing a window<li>Concatenating strings<li>Setting time and date values<li>Using buttons to trigger events<li>Working with frames<li>Detecting a user's browser</ul>The companion CD-ROM includes: <ul><li>Dreamweaver and FrontPage trials, Homesite evaluation version, and PageMill and BBEdit demos<li>RealPlayer, CoffeeCup, HotDog Express, Ulead Web GIF Animator, and many other useful apps<li>Plus all sample code and an eversion of the book</ul>     \n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/51M9G0CVV4L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Sams Teach Yourself Java 2 in 21 Days (Teach Yourself in 21 Days Series)",
+    "author": "Laura Lemay",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\nSams Teach Yourself Java in 21 Days continues to be the most popular, best-selling Java tutorial on the market. It has been acclaimed for its clear and personable writing, for its extensive use of examples, and for its logical and complete organization. The third edition of the book maintains and improves upon all these qualities while updating the material to cover the latest developments in the Java language - such as using Java Foundation Classes, Java 2D Classes, and JavaBeans.\n\n<p><br>\n\n<i>Amazon.com Review</I><br>\nNewly revised for some of the latest Sun JDK 1.3 standards, the second edition of <I>Sams Teach Yourself Java 2 in 21 Days</I> provides a refreshingly compact and useful tour of Java suitable for anyone who wants to master this powerful programming language quickly.<p>  Currently, Java has some 2,000 classes and over 24,000 methods and properties. Instead of covering a laundry list of features, this book concentrates on what's really important, and keeps your attention with short, clever examples, many of which use names and examples drawn from pop culture or historical trivia. <p>  The first week of lessons in the book comprises an easily digestible tutorial on basic Java, with review questions and exercises that will help you start using it on your own. Next comes a tour of the various options for building user interfaces in today's Java, including Swing applets and applications. In addition to basic component programming, you'll learn graphics using the new Java 2D API. (The older Abstract Windowing Toolkit, AWT, isn't covered.) Material on threading, animation, and sound helps you explore Java's multimedia capabilities.<p>  The third and final week of lessons addresses advanced Java APIs and features that extend the reach of Java on the enterprise. After delving into more advanced class design, the book looks at topics like I/O streams in Java and Object Serialization (which allows objects to work with streams). Chapters on security and basic networking (illustrated using a server that generates trivia questions for clients) will let you work with Java on the Internet. The book closes with a chapter on database programming with JDBC. (There's also coverage of the older JDK 1.0 collection classes, which is a little surprising given the book's focus on newer Java 2 standards.)<p>  All in all, <I>Sams Teach Yourself Java 2 in 21 Days</I> provides an efficiently packaged tutorial for learning Java, one that will be appreciated by any beginning Java programmer. The sheer number of classes and APIs in today's Java can be overwhelming. The intelligent and concise series of lessons in this book will help jump-start your knowledge. <I>--Richard Dragan</I><p>  <B>Topics covered:</B> <ul><li>Overview and history of Java <li>Introduction to objects <li>Class inheritance <li>Tutorial for basic Java (including data types and keywords, flow control, and working with objects) <li>Arrays <li>Basic Java applications <li>Methods and constructors <li>Introduction to Java applets <li>Building Swing user interfaces (basic component types, layout managers, and event processing) <li>Java 2D graphics (drawing basic shapes, text output, and fonts) <li>Using threads for animation <li>Loading and displaying images <li>Java Sound (including MIDI files) <li>Advanced class design (interfaces, packages, advanced method options) <li>Exception handling and security <li>Signing JAR files <li>File and stream I/O in Java <li>Object Serialization and reflection <li>Remote Method Invocation (RMI) <li>Java networking basics (sockets and servers) <li>Building custom UI components with JavaBeans <li>Database programming with JDBC <li>JDK 1.0 collection classes <li>References on the Sun JDK 1.3 (including installation)</ul> \n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/51CCR9RYQ9L.jpg"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java for Students 1.2",
+    "author": "Doug Bell",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\nPrevious programming experience is not assumed. Aware that many students need a careful introduction to programming throughout the text, programs that use graphical images are emphasised to clearly demonstrate all the important programming principles. The authors use a spiral approach to programming concepts; introducing concepts simply early on, then in a more sophisticated way later, (i.e. objects are integrated through five chapters). Java for Students 1.2 emphasises the use of applets but also shows how to program free-standing applications. The authors have been careful to put together a text that covers the powerful features of Java and presents the language to students as both a fun and useful tool.\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/41G7Y6HVZ9L.gif"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Sams Teach Yourself Javascript 1.3 in 24 Hours (Teach Yourself in 24 Hours)",
+    "author": "Michael Moncur",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "BOOK_MOOCH",
+        "description": "<i>Product Description</I><br>\nJavaScript is one of the easiest, most straightforward ways to enhance a Web site with interactivity. Yet most of the JavaScript books currently on the market are fairly large books that assume some familiarity with basic programming concepts. Sams Teach Yourself JavaScript 1.3 in 24 Hours, on the other hand, makes no such assumptions and serves as an easy-to-understand tutorial on both scripting basics and JavaScript itself. The book will be written in a clear and personable style with an extensive use of practical, complete examples. Sams Teach Yourself JavaScript 1.3 in 24 Hours will include material on the latest developments in JavaScript -- such as the use of JavaScript in Dynamic HTML. And it will clearly delineate the increasingly complex differences between the Netscape version of JavaScript, the Microsoft version, and the ECMAScript standard.\n\n",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "http://ecx.images-amazon.com/images/I/71JE2RP69NL.gif"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Effective JavaScript",
+    "author": "David Herman",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "IT_BOOK_STORE",
+        "description": "In order to truly master JavaScript, you need to learn how to work effectively with the language's flexible, expressive features and how to avoid its pitfalls. No matter how long you've been writing JavaScript code, Effective JavaScript will help deepen your understanding of this powerful language, ...",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://itbook.store/img/books/9780321812186.png"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Learning JavaScript",
+    "author": "Tim Wright",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "IT_BOOK_STORE",
+        "description": "With the arrival of HTML5, jQuery, and Ajax, JavaScript web development skills are more valuable  than ever! This complete, hands-on JavaScript tutorial covers everything you need to know now.  Using line-by-line code walkthroughs and end-of-chapter exercises, top web developer and speaker Tim Wrigh...",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://itbook.store/img/books/9780321832740.png"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Java Cookbook, 2nd Edition",
+    "author": "Ian F. Darwin",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "IT_BOOK_STORE",
+        "description": "You have a choice: you can wade your way through lengthy Java tutorials and figure things out by trial and error, or you can pick up Java Cookbook, 2nd Edition and get to the heart of what you need to know when you need to know it.With the completely revised and thoroughly updated Java Cookbook, 2nd...",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://itbook.store/img/books/9780596007010.png"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "JavaScript: The Good Parts",
+    "author": "Douglas Crockford",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "IT_BOOK_STORE",
+        "description": "Most programming languages contain good and bad parts, but JavaScript has more than its share of the bad, having been developed and released in a hurry before it could be refined. This authoritative book scrapes away these bad features to reveal a subset of JavaScript that's more reliable, readable,...",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://itbook.store/img/books/9780596517748.png"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Head First JavaScript",
+    "author": "Michael Morrison",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "IT_BOOK_STORE",
+        "description": "Want to make the leap from writing HTML and CSS web pages and create dynamic web applications? Want to take your web skills to the next level? It sounds like you're ready to learn the Web's hottest programming language: JavaScript. Head First JavaScript is your ticket to going beyond copying and pas...",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://itbook.store/img/books/9780596527747.png"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Sams Teach Yourself Java in 24 Hours, 6th Edition",
+    "author": "Rogers Cadenhead",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "IT_BOOK_STORE",
+        "description": "In just 24 lessons of one hour or less, you can learn how to create Java applications with the free NetBeans visual editing tools.Using a straightforward, step-by-step approach, popular author Rogers Cadenhead helps you master the skills and technology you need to create desktop and web programs, we...",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://itbook.store/img/books/9780672335754.png"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Sams Teach Yourself Java in 24 Hours, 8th Edition",
+    "author": "Rogers Cadenhead",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "IT_BOOK_STORE",
+        "description": "Computer programming with Java is easier than it looks. In just 24 lessons of one hour or less, you can learn to write computer programs in Java. Using a straightforward, step-by-step approach, popular author Rogers Cadenhead helps you master the skills and technology you need to create desktop and ...",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://itbook.store/img/books/9780672337949.png"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Pro Java ME Apps",
+    "author": "Ovidiu Iliescu",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "IT_BOOK_STORE",
+        "description": "Pro Java ME Apps gives you, the developer, the know-how required for writing sophisticated Java ME applications and for taking advantage of this huge potential market. Java ME is the largest mobile software platform in the world, supported by over 80% of all phones. You'll cover what Java ME is and ...",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://itbook.store/img/books/9781430233275.png"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "Expert Oracle and Java Security",
+    "author": "David Coffin",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "IT_BOOK_STORE",
+        "description": "Expert Oracle and Java Security: Programming Secure Oracle Database Applications with Java provides resources that every Java and Oracle database application programmer needs to ensure that they have guarded the security of the data and identities entrusted to them. You'll learn to consider potentia...",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://itbook.store/img/books/9781430238317.png"
+      }
+    ],
+    "subscribers": null
+  },
+  {
+    "id": null,
+    "name": "JavaScript Creativity",
+    "author": "Shane Hudson",
+    "serialNumber": null,
+    "details": [
+      {
+        "id": null,
+        "source": "IT_BOOK_STORE",
+        "description": "JavaScript Creativity teaches you how to use every feature of this versatile and powerful language in exciting and creative ways. JavaScript can be used for so much more than simple interactivity. Master your use of canvas, animation, audio and video, 3D visualizations, motion detection and real-tim...",
+        "comments": null,
+        "ratings": null,
+        "tags": null,
+        "coverUrl": "https://itbook.store/img/books/9781430259442.png"
+      }
+    ],
+    "subscribers": null
+  }
+]

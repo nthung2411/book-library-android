@@ -1,0 +1,434 @@
+[
+  {
+    "id": 1,
+    "name": "Charlotte's Web",
+    "author": "Charlotte's Web",
+    "serialNumber": "059030271X",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 2,
+    "name": "Piano Lessons Can Be Murder (Goosebumps, No 13)",
+    "author": "Piano Lessons Can Be Murder (Goosebumps, No 13)",
+    "serialNumber": "590494481",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 3,
+    "name": "The Reaction (Animorphs, No 12)",
+    "author": "The Reaction (Animorphs, No 12)",
+    "serialNumber": "590997343",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 4,
+    "name": "Fault Lines",
+    "author": "Fault Lines",
+    "serialNumber": "61093343",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 5,
+    "name": "Phantom of the Auditorium (Goosebumps, No 24)",
+    "author": "Phantom of the Auditorium (Goosebumps, No 24)",
+    "serialNumber": "590483544",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 6,
+    "name": "MAMMOTH HUNTERS,THE (Auel, Jean M. , Earth's Children.)",
+    "author": "MAMMOTH HUNTERS,THE (Auel, Jean M. , Earth's Children.)",
+    "serialNumber": "553260960",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 7,
+    "name": "Divine Secrets of the Ya-Ya Sisterhood: A Novel",
+    "author": "Divine Secrets of the Ya-Ya Sisterhood: A Novel",
+    "serialNumber": "60173289",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 8,
+    "name": "Night of the Living Dummy II  (Goosebumps, No 31)",
+    "author": "Night of the Living Dummy II  (Goosebumps, No 31)",
+    "serialNumber": "590483498",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 9,
+    "name": "Midnight",
+    "author": "Midnight",
+    "serialNumber": "425194515",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 10,
+    "name": "You Can't Scare Me! (Goosebumps, No 15)",
+    "author": "You Can't Scare Me! (Goosebumps, No 15)",
+    "serialNumber": "590494503",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 11,
+    "name": "The Abominable Snowman of Pasadena (Goosebumps, No 38)",
+    "author": "The Abominable Snowman of Pasadena (Goosebumps, No 38)",
+    "serialNumber": "590568752",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 12,
+    "name": "Charlotte's Web (Trophy Newbery)",
+    "author": "Charlotte's Web (Trophy Newbery)",
+    "serialNumber": "64400557",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 13,
+    "name": "Island of the Blue Dolphins",
+    "author": "Island of the Blue Dolphins",
+    "serialNumber": "440439884",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 14,
+    "name": "Claudia and the New Girl (Baby-Sitters Club, 12)",
+    "author": "Claudia and the New Girl (Baby-Sitters Club, 12)",
+    "serialNumber": "590251678",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 15,
+    "name": "The Magician's Nephew (The Chronicles of Narnia)",
+    "author": "The Magician's Nephew (The Chronicles of Narnia)",
+    "serialNumber": "64471101",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 16,
+    "name": "Jedi Search (Star Wars: The Jedi Academy Trilogy, Vol. 1)",
+    "author": "Jedi Search (Star Wars: The Jedi Academy Trilogy, Vol. 1)",
+    "serialNumber": "553297988",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 17,
+    "name": "Island of the Blue Dolphins",
+    "author": "Island of the Blue Dolphins",
+    "serialNumber": "440940001",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 18,
+    "name": "The River Knows",
+    "author": "The River Knows",
+    "serialNumber": "515144363",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 19,
+    "name": "Remember When",
+    "author": "Remember When",
+    "serialNumber": "425195473",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 20,
+    "name": "Facing the Future (Left Behind: The Kids #4)",
+    "author": "Facing the Future (Left Behind: The Kids #4)",
+    "serialNumber": "842321969",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 21,
+    "name": "Nicolae High (Left Behind: The Kids #5)",
+    "author": "Nicolae High (Left Behind: The Kids #5)",
+    "serialNumber": "842343253",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 22,
+    "name": "The Magician's Nephew",
+    "author": "The Magician's Nephew",
+    "serialNumber": "20442300",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 23,
+    "name": "The Barking Ghost (Goosebumps, No 32)",
+    "author": "The Barking Ghost (Goosebumps, No 32)",
+    "serialNumber": "590483447",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 24,
+    "name": "Dawn's Wicked Stepsister (Baby-Sitters Club, 31)",
+    "author": "Dawn's Wicked Stepsister (Baby-Sitters Club, 31)",
+    "serialNumber": "590424971",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 25,
+    "name": "My Louisiana Sky",
+    "author": "My Louisiana Sky",
+    "serialNumber": "440415705",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 26,
+    "name": "Waiting for Nick / Considering Kate (Stanislaski, Books 5 & 6) (Stanislaski Stories)",
+    "author": "Waiting for Nick / Considering Kate (Stanislaski, Books 5 & 6) (Stanislaski Stories)",
+    "serialNumber": "037328568X",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 27,
+    "name": "Otherwise Known as Sheila the Great",
+    "author": "Otherwise Known as Sheila the Great",
+    "serialNumber": "440467012",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 28,
+    "name": "Bsc #04: Mary Anne Saves The Day (Baby-Sitters Club: Collector's Edition)",
+    "author": "Bsc #04: Mary Anne Saves The Day (Baby-Sitters Club: Collector's Edition)",
+    "serialNumber": "590251597",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 29,
+    "name": "Mary Anne Saves the Day (Baby-Sitters Club, 4)",
+    "author": "Mary Anne Saves the Day (Baby-Sitters Club, 4)",
+    "serialNumber": "590435124",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 30,
+    "name": "The Ghost at Dawn's House (The Baby-Sitters Club #9)",
+    "author": "The Ghost at Dawn's House (The Baby-Sitters Club #9)",
+    "serialNumber": "590435086",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 31,
+    "name": "Karens Prize (Baby-Sitters Little Sister, 11)",
+    "author": "Karens Prize (Baby-Sitters Little Sister, 11)",
+    "serialNumber": "590436503",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 32,
+    "name": "Chicken Soup for the Preteen Soul - 101 Stories of Changes, Choices",
+    "author": "Chicken Soup for the Preteen Soul - 101 Stories of Changes, Choices",
+    "serialNumber": "1558748008",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 33,
+    "name": "Animorphs Megamorphs #01: The Andalite's Gift (Animorphs)",
+    "author": "Animorphs Megamorphs #01: The Andalite's Gift (Animorphs)",
+    "serialNumber": "590213040",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 34,
+    "name": "Return of the Mummy (Goosebumps, No 23)",
+    "author": "Return of the Mummy (Goosebumps, No 23)",
+    "serialNumber": "590477455",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 35,
+    "name": "Baby-sitters Little Sister #1:  Karen's Witch",
+    "author": "Baby-sitters Little Sister #1:  Karen's Witch",
+    "serialNumber": "590443003",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 36,
+    "name": "The Purpose-Driven Life: What on Earth Am I Here For?",
+    "author": "The Purpose-Driven Life: What on Earth Am I Here For?",
+    "serialNumber": null,
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 37,
+    "name": "Circle of Three: A Novel",
+    "author": "Circle of Three: A Novel",
+    "serialNumber": "61098361",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 38,
+    "name": "Into the Garden (Wildflowers)",
+    "author": "Into the Garden (Wildflowers)",
+    "serialNumber": "671007718",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 39,
+    "name": "PLAYING FOR PIZZA",
+    "author": "PLAYING FOR PIZZA",
+    "serialNumber": "440244714",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 40,
+    "name": "Welcome to Camp Nightmare (Goosebumps, No 9)",
+    "author": "Welcome to Camp Nightmare (Goosebumps, No 9)",
+    "serialNumber": "590466194",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 41,
+    "name": "The Warning (Animorphs, No. 16)",
+    "author": "The Warning (Animorphs, No. 16)",
+    "serialNumber": "590494309",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 42,
+    "name": "A Twist in the Tale",
+    "author": "A Twist in the Tale",
+    "serialNumber": "340493534",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 43,
+    "name": "The Secret of the Indian (Indian in the Cupboard)",
+    "author": "The Secret of the Indian (Indian in the Cupboard)",
+    "serialNumber": "380710404",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 44,
+    "name": "Be Careful What You Wish For... (Goosebumps, No 12)",
+    "author": "Be Careful What You Wish For... (Goosebumps, No 12)",
+    "serialNumber": "590494473",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 45,
+    "name": "Broken Hearts (Fear Street Superchiller)",
+    "author": "Broken Hearts (Fear Street Superchiller)",
+    "serialNumber": "671786091",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 46,
+    "name": "Karen's Roller Skates (Baby-Sitters Little Sister #2)",
+    "author": "Karen's Roller Skates (Baby-Sitters Little Sister #2)",
+    "serialNumber": "590442597",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 47,
+    "name": "Karen's Grandmothers (Baby-Sitters Little Sister, 10)",
+    "author": "Karen's Grandmothers (Baby-Sitters Little Sister, 10)",
+    "serialNumber": "590436511",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 48,
+    "name": "Karen's Haircut (Baby-Sitters Little Sister (Paperback))",
+    "author": "Karen's Haircut (Baby-Sitters Little Sister (Paperback))",
+    "serialNumber": "590426702",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 49,
+    "name": "Roll of Thunder, Hear My Cry",
+    "author": "Roll of Thunder, Hear My Cry",
+    "serialNumber": "014034893X",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 50,
+    "name": "Juggling for the Complete Klutz",
+    "author": "Juggling for the Complete Klutz",
+    "serialNumber": "932592007",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 51,
+    "name": "Hai vạn dặm dưới đáy biển",
+    "author": "Hai vạn dặm dưới đáy biển",
+    "serialNumber": "122592007",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 52,
+    "name": "Thi nhân và sát nhân",
+    "author": "Thi nhân và sát nhân",
+    "serialNumber": "132592007",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 53,
+    "name": "Bí mật căn phòng đỏ",
+    "author": "Bí mật căn phòng đỏ",
+    "serialNumber": "142592007",
+    "details": null,
+    "subscribers": null
+  },
+  {
+    "id": 54,
+    "name": ".",
+    "author": ".",
+    "serialNumber": "8398622550051",
+    "details": null,
+    "subscribers": null
+  }
+]

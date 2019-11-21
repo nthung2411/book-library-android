@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BookLibrary</string>
+    <string name="email_hint">Email/Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Click to Login</string>
+    <string name="result_empty_msg">Result is empty!</string>
+    <string name="general_error_msg">Something went wrong, please try again!</string>
+</resources>
